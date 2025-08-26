@@ -729,5 +729,85 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/kVggJpN3/DA.jpg"
+  },
+  {
+    "id": 1756192737895,
+    "name": "Karina",
+    "group": [
+      "aespa",
+      "GOT the beat"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 167,
+    "role": [
+      "Leader",
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/BKG1KsZQ/Karina-aespa.jpg"
+  },
+  {
+    "id": 1756192740474,
+    "name": "Giselle",
+    "group": [
+      "aespa"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 163,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR",
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/WNvLk9tR/Giselle-aespa.jpg"
+  },
+  {
+    "id": 1756192742507,
+    "name": "Winter",
+    "group": [
+      "aespa",
+      "GOT the beat"
+    ],
+    "agency": "SM",
+    "birthYear": 2001,
+    "height": 165,
+    "role": [
+      "Visual",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/PvDvcq9N/Winter-aespa.jpg"
+  },
+  {
+    "id": 1756192743364,
+    "name": "NingNing",
+    "group": [
+      "aespa"
+    ],
+    "agency": "SM",
+    "birthYear": 2002,
+    "height": 161,
+    "role": [
+      "Maknae",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/yLxqkqK/Ning-Ning-aespa.jpg"
   }
 ]
