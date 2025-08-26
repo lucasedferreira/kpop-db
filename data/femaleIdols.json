@@ -540,5 +540,62 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/7dd5Rx7h/Leeseo-IVE.jpg"
+  },
+  {
+    "id": 1756191083337,
+    "name": "Yunjin",
+    "group": [
+      "LE SSERAFIM"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2001,
+    "height": 172,
+    "role": [
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": "https://i.ibb.co/hFzQ5HJG/Yunjin-LE-SSERAFIM.jpg"
+  },
+  {
+    "id": 1756191083717,
+    "name": "Kazuha",
+    "group": [
+      "LE SSERAFIM"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2003,
+    "height": 169,
+    "role": [
+      "Sub Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/6R1qLt49/Kazuha-LE-SSERAFIM.jpg"
+  },
+  {
+    "id": 1756191084086,
+    "name": "Eunchae",
+    "group": [
+      "LE SSERAFIM"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2006,
+    "height": 169,
+    "role": [
+      "Maknae",
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/5XJW2kGd/Eunchae-LE-SSERAFIM.jpg"
   }
 ]
