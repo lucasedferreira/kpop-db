@@ -33,5 +33,19 @@
     "nationality": [
       "TH"
     ]
+  },
+  {
+    "id": 1756171660433,
+    "name": "teste",
+    "group": "Blackpink",
+    "agency": "YG",
+    "birthYear": 123,
+    "height": 123,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "KR"
+    ]
   }
 ]
