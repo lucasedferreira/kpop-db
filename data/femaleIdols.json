@@ -1,7 +1,7 @@
 [
   {
     "id": 1756188493304,
-    "name": "Jinsoul",
+    "name": "Jinsoul (ARTMS)",
     "group": [
       "LOONA",
       "ARTMS"
@@ -20,7 +20,7 @@
   },
   {
     "id": 1756188493662,
-    "name": "Haseul",
+    "name": "Haseul (ARTMS)",
     "group": [
       "LOONA",
       "ARTMS"
@@ -39,7 +39,7 @@
   },
   {
     "id": 1756188494018,
-    "name": "Kim Lip",
+    "name": "Kim Lip (ARTMS)",
     "group": [
       "LOONA",
       "ARTMS"
@@ -58,7 +58,7 @@
   },
   {
     "id": 1756188494330,
-    "name": "Heejin",
+    "name": "Heejin (ARTMS)",
     "group": [
       "LOONA",
       "ARTMS"
@@ -78,7 +78,7 @@
   },
   {
     "id": 1756188494663,
-    "name": "Choerry",
+    "name": "Choerry (ARTMS)",
     "group": [
       "LOONA",
       "ARTMS"
@@ -99,7 +99,7 @@
   },
   {
     "id": 1756188495058,
-    "name": "Hyunjin",
+    "name": "Hyunjin (LOONA)",
     "group": [
       "LOONA",
       "Loossemble"
@@ -120,7 +120,7 @@
   },
   {
     "id": 1756188495424,
-    "name": "Vivi",
+    "name": "Vivi (LOONA)",
     "group": [
       "LOONA",
       "Loossemble"
@@ -139,7 +139,7 @@
   },
   {
     "id": 1756188495838,
-    "name": "Gowon",
+    "name": "Gowon (LOONA)",
     "group": [
       "LOONA",
       "Loossemble"
@@ -159,7 +159,7 @@
   },
   {
     "id": 1756188496185,
-    "name": "Hyeju",
+    "name": "Hyeju (LOONA)",
     "group": [
       "LOONA",
       "Loossemble"
@@ -179,7 +179,7 @@
   },
   {
     "id": 1756188496561,
-    "name": "Yeojin",
+    "name": "Yeojin (LOONA)",
     "group": [
       "LOONA",
       "Loossemble"
@@ -199,7 +199,7 @@
   },
   {
     "id": 1756188497232,
-    "name": "Yves",
+    "name": "Yves (LOONA)",
     "group": [
       "LOONA",
       "SOLO"
@@ -218,7 +218,7 @@
   },
   {
     "id": 1756188497676,
-    "name": "Chuu",
+    "name": "Chuu (LOONA)",
     "group": [
       "LOONA",
       "SOLO"
@@ -237,7 +237,7 @@
   },
   {
     "id": 1756190123659,
-    "name": "Eunbi",
+    "name": "Eunbi (IZ*ONE)",
     "group": [
       "IZ*ONE",
       "SOLO"
@@ -257,7 +257,7 @@
   },
   {
     "id": 1756190124057,
-    "name": "Sakura",
+    "name": "Sakura (LE SSERAFIM)",
     "group": [
       "IZ*ONE",
       "LE SSERAFIM"
@@ -277,7 +277,7 @@
   },
   {
     "id": 1756190124504,
-    "name": "Hyewon",
+    "name": "Hyewon (IZ*ONE)",
     "group": [
       "IZ*ONE"
     ],
@@ -296,7 +296,7 @@
   },
   {
     "id": 1756190124875,
-    "name": "Yena",
+    "name": "Yena (IZ*ONE)",
     "group": [
       "IZ*ONE",
       "SOLO"
@@ -316,7 +316,7 @@
   },
   {
     "id": 1756190125225,
-    "name": "Chaeyeon",
+    "name": "Chaeyeon (IZ*ONE)",
     "group": [
       "IZ*ONE",
       "SOLO"
@@ -336,7 +336,7 @@
   },
   {
     "id": 1756190125661,
-    "name": "Chaewon",
+    "name": "Chaewon (LE SSERAFIM)",
     "group": [
       "IZ*ONE",
       "LE SSERAFIM"
@@ -356,7 +356,7 @@
   },
   {
     "id": 1756190126049,
-    "name": "Minju",
+    "name": "Minju (IZ*ONE)",
     "group": [
       "IZ*ONE"
     ],
@@ -375,7 +375,7 @@
   },
   {
     "id": 1756190126432,
-    "name": "Nako",
+    "name": "Nako (IZ*ONE)",
     "group": [
       "IZ*ONE"
     ],
@@ -392,7 +392,7 @@
   },
   {
     "id": 1756190126847,
-    "name": "Hitomi",
+    "name": "Hitomi (Say My Name)",
     "group": [
       "IZ*ONE",
       "Say My Name"
@@ -411,7 +411,7 @@
   },
   {
     "id": 1756190127374,
-    "name": "Yuri",
+    "name": "Yuri (IZ*ONE)",
     "group": [
       "IZ*ONE",
       "SOLO"
@@ -429,7 +429,7 @@
   },
   {
     "id": 1756190127852,
-    "name": "Yujin",
+    "name": "Yujin (IVE)",
     "group": [
       "IZ*ONE",
       "IVE"
@@ -449,7 +449,7 @@
   },
   {
     "id": 1756190128428,
-    "name": "Wonyoung",
+    "name": "Wonyoung (IVE)",
     "group": [
       "IZ*ONE",
       "IVE"
@@ -469,7 +469,7 @@
   },
   {
     "id": 1756190633532,
-    "name": "Gaeul",
+    "name": "Gaeul (IVE)",
     "group": [
       "IVE"
     ],
@@ -488,7 +488,7 @@
   },
   {
     "id": 1756190634074,
-    "name": "Rei",
+    "name": "Rei (IVE)",
     "group": [
       "IVE"
     ],
@@ -506,7 +506,7 @@
   },
   {
     "id": 1756190634727,
-    "name": "Liz",
+    "name": "Liz (IVE)",
     "group": [
       "IVE"
     ],
@@ -523,7 +523,7 @@
   },
   {
     "id": 1756190635363,
-    "name": "Leeseo",
+    "name": "Leeseo (IVE)",
     "group": [
       "IVE"
     ],
@@ -543,7 +543,7 @@
   },
   {
     "id": 1756191083337,
-    "name": "Yunjin",
+    "name": "Yunjin (LE SSERAFIM)",
     "group": [
       "LE SSERAFIM"
     ],
@@ -562,7 +562,7 @@
   },
   {
     "id": 1756191083717,
-    "name": "Kazuha",
+    "name": "Kazuha (LE SSERAFIM)",
     "group": [
       "LE SSERAFIM"
     ],
@@ -581,7 +581,7 @@
   },
   {
     "id": 1756191084086,
-    "name": "Eunchae",
+    "name": "Eunchae (LE SSERAFIM)",
     "group": [
       "LE SSERAFIM"
     ],
