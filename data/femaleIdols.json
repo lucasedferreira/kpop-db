@@ -111,5 +111,23 @@
       "JP"
     ],
     "photo": "https://i.ibb.co/W44vJxxZ/Cocona-XG.jpg"
+  },
+  {
+    "id": 1756186736333,
+    "name": "teste",
+    "group": [
+      "LOONA",
+      "XG"
+    ],
+    "agency": "ð",
+    "birthYear": 123,
+    "height": 123,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/pv9zN1dY/teste-LOONA.jpg"
   }
 ]
