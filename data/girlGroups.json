@@ -26,7 +26,7 @@
   {
     "id": 1756175174904,
     "name": "LOONA",
-    "agency": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "agency": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "debutYear": 2016,
     "memberCount": 12,
     "status": "inactive"
@@ -67,6 +67,14 @@
     "id": 1756177353172,
     "name": "as",
     "agency": "1",
+    "debutYear": 1,
+    "memberCount": 1,
+    "status": "active"
+  },
+  {
+    "id": 1756177438774,
+    "name": "a2",
+    "agency": "a",
     "debutYear": 1,
     "memberCount": 1,
     "status": "active"
