@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": 1756168582455,
+    "name": "Jennie",
+    "group": "Blackpink",
+    "agency": "YG",
+    "birthYear": 2000,
+    "height": 165,
+    "role": [
+      "Leader",
+      "Visual",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "TH"
+    ]
+  },
+  {
+    "id": 1756168582456,
+    "name": "Lisa",
+    "group": "Blackpink",
+    "agency": "YG",
+    "birthYear": 2002,
+    "height": 164,
+    "role": [
+      "Leader",
+      "Main Vocal",
+      "Lead Vocal",
+      "Main Rap",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "TH"
+    ]
+  }
+]
