@@ -7,7 +7,7 @@
       "LOONA",
       "ARTMS"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1997,
     "height": 165,
     "role": [
@@ -27,7 +27,7 @@
       "LOONA",
       "ARTMS"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1997,
     "height": 157,
     "role": [
@@ -47,7 +47,7 @@
       "LOONA",
       "ARTMS"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1999,
     "height": 163,
     "role": [
@@ -67,7 +67,7 @@
       "LOONA",
       "ARTMS"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2000,
     "height": 161,
     "role": [
@@ -88,7 +88,7 @@
       "LOONA",
       "ARTMS"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2001,
     "height": 161,
     "role": [
@@ -110,7 +110,7 @@
       "LOONA",
       "Loossemble"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2000,
     "height": 163,
     "role": [
@@ -132,7 +132,7 @@
       "LOONA",
       "Loossemble"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1996,
     "height": 160,
     "role": [
@@ -152,7 +152,7 @@
       "LOONA",
       "Loossemble"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2000,
     "height": 160,
     "role": [
@@ -173,7 +173,7 @@
       "LOONA",
       "Loossemble"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2001,
     "height": 165,
     "role": [
@@ -194,7 +194,7 @@
       "LOONA",
       "Loossemble"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2002,
     "height": 149,
     "role": [
@@ -215,7 +215,7 @@
       "LOONA",
       "SOLO"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1997,
     "height": 166,
     "role": [
@@ -235,7 +235,7 @@
       "LOONA",
       "SOLO"
     ],
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1999,
     "height": 161,
     "role": [
@@ -246,5 +246,237 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/N286qDNN/Chuu-LOONA.jpg"
+  },
+  {
+    "id": 1756190123659,
+    "name": "Eunbi",
+    "group": [
+      "IZ*ONE",
+      "SOLO"
+    ],
+    "agency": "Woollim",
+    "birthYear": 1995,
+    "height": 159,
+    "role": [
+      "Leader",
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/TBKBNg3B/Eunbi-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190124057,
+    "name": "Sakura",
+    "group": [
+      "IZ*ONE",
+      "LE SSERAFIM"
+    ],
+    "agency": "HYBE",
+    "birthYear": 1998,
+    "height": 163,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/zWqCyKkn/Sakura-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190124504,
+    "name": "Hyewon",
+    "group": [
+      "IZ*ONE"
+    ],
+    "agency": "8D",
+    "birthYear": 1999,
+    "height": 163,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/2044bRBq/Hyewon-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190124875,
+    "name": "Yena",
+    "group": [
+      "IZ*ONE",
+      "SOLO"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 1999,
+    "height": 162,
+    "role": [
+      "Lead Vocal",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/jknR4wHS/Yena-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190125225,
+    "name": "Chaeyeon",
+    "group": [
+      "IZ*ONE",
+      "SOLO"
+    ],
+    "agency": "WM",
+    "birthYear": 2000,
+    "height": 165,
+    "role": [
+      "Lead Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/JFBYsbF4/Chaeyeon-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190125661,
+    "name": "Chaewon",
+    "group": [
+      "IZ*ONE",
+      "LE SSERAFIM"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2000,
+    "height": 163,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/ZzrKmWRR/Chaewon-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190126049,
+    "name": "Minju",
+    "group": [
+      "IZ*ONE"
+    ],
+    "agency": "Urban Works",
+    "birthYear": 2001,
+    "height": 163,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/jZB6PB0n/Minju-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190126432,
+    "name": "Nako",
+    "group": [
+      "IZ*ONE"
+    ],
+    "agency": "EMI Records",
+    "birthYear": 2001,
+    "height": 150,
+    "role": [
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/Fk0Dz7xD/Nako-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190126847,
+    "name": "Hitomi",
+    "group": [
+      "IZ*ONE",
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2001,
+    "height": 159,
+    "role": [
+      "Leader",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/V4WqGSh/Hitomi-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190127374,
+    "name": "Yuri",
+    "group": [
+      "IZ*ONE",
+      "SOLO"
+    ],
+    "agency": "WAKEONE",
+    "birthYear": 2001,
+    "height": 163,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4nwxc0bn/Yuri-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190127852,
+    "name": "Yujin",
+    "group": [
+      "IZ*ONE",
+      "IVE"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2003,
+    "height": 173,
+    "role": [
+      "Leader",
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/wZpRktRT/Yujin-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190128428,
+    "name": "Wonyoung",
+    "group": [
+      "IZ*ONE",
+      "IVE"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2004,
+    "height": 173,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Kc1vTwS3/Wonyoung-IZ-ONE.jpg"
   }
 ]
