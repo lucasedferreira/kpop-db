@@ -466,5 +466,79 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/Kc1vTwS3/Wonyoung-IZ-ONE.jpg"
+  },
+  {
+    "id": 1756190633532,
+    "name": "Gaeul",
+    "group": [
+      "IVE"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2002,
+    "height": 164,
+    "role": [
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/v64sgWGL/Gaeul-IVE.jpg"
+  },
+  {
+    "id": 1756190634074,
+    "name": "Rei",
+    "group": [
+      "IVE"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2004,
+    "height": 170,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/F42pfP0C/Rei-IVE.jpg"
+  },
+  {
+    "id": 1756190634727,
+    "name": "Liz",
+    "group": [
+      "IVE"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2004,
+    "height": 171,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/QFmNpQCT/Liz-IVE.jpg"
+  },
+  {
+    "id": 1756190635363,
+    "name": "Leeseo",
+    "group": [
+      "IVE"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2007,
+    "height": 165,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Sub Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/7dd5Rx7h/Leeseo-IVE.jpg"
   }
 ]
