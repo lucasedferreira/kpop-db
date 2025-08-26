@@ -26,7 +26,7 @@
   {
     "id": 1756175174904,
     "name": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "debutYear": 2016,
     "memberCount": 12,
     "status": "inactive"
@@ -37,6 +37,14 @@
     "agency": "YG",
     "debutYear": 2000,
     "memberCount": 10,
+    "status": "active"
+  },
+  {
+    "id": 1756177255249,
+    "name": "Blackpink5",
+    "agency": "YG",
+    "debutYear": 1,
+    "memberCount": 1,
     "status": "active"
   }
 ]
