@@ -52,7 +52,7 @@
     "id": 1756176302225,
     "name": "Chuu",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1999,
     "height": 161,
     "role": [
@@ -67,7 +67,7 @@
     "id": 1756176302226,
     "name": "HaSeul",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1997,
     "height": 159,
     "role": [
@@ -83,7 +83,7 @@
     "id": 1756176302227,
     "name": "ViVi",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1996,
     "height": 160,
     "role": [
@@ -98,7 +98,7 @@
     "id": 1756176302228,
     "name": "Yves",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1997,
     "height": 166,
     "role": [
@@ -114,7 +114,7 @@
     "id": 1756176302230,
     "name": "JinSoul",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1997,
     "height": 165,
     "role": [
@@ -129,7 +129,7 @@
     "id": 1756176302231,
     "name": "Kim Lip",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 1999,
     "height": 163,
     "role": [
@@ -144,7 +144,7 @@
     "id": 1756176302232,
     "name": "HeeJin",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2000,
     "height": 161,
     "role": [
@@ -160,7 +160,7 @@
     "id": 1756176302233,
     "name": "HyunJin",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2000,
     "height": 163,
     "role": [
@@ -176,7 +176,7 @@
     "id": 1756176302234,
     "name": "GoWon",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2000,
     "height": 160,
     "role": [
@@ -192,7 +192,7 @@
     "id": 1756176302235,
     "name": "Choerry",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2001,
     "height": 163,
     "role": [
@@ -208,7 +208,7 @@
     "id": 1756176302236,
     "name": "HyeJu",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2001,
     "height": 165,
     "role": [
@@ -224,7 +224,7 @@
     "id": 1756176302237,
     "name": "YeoJin",
     "group": "LOONA",
-    "agency": "ð",
+    "agency": "Ã°ÂÂÂ",
     "birthYear": 2002,
     "height": 149,
     "role": [
@@ -263,5 +263,40 @@
     "nationality": [
       "JP"
     ]
+  },
+  {
+    "id": 1756179899008,
+    "name": "herich",
+    "group": "testecomimagem",
+    "agency": "123",
+    "birthYear": 2001,
+    "height": 190,
+    "role": [
+      "Visual",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Z6GgRWg9/herich-testecomimagem.jpg"
+  },
+  {
+    "id": 1756179899638,
+    "name": "eu",
+    "group": "testecomimagem",
+    "agency": "123",
+    "birthYear": 2000,
+    "height": 170,
+    "role": [
+      "Maknae",
+      "Main Vocal",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/WvYHjHXt/eu-testecomimagem.jpg"
   }
 ]
