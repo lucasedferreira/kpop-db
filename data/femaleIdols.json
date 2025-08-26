@@ -1,1 +1,115 @@
-[]
+[
+  {
+    "id": 1756183434040,
+    "name": "Jurin",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 158,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/ym4K6spd/Jurin-XG.jpg"
+  },
+  {
+    "id": 1756183434365,
+    "name": "Chisa",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 157,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/fGZC3jFB/Chisa-XG.jpg"
+  },
+  {
+    "id": 1756183434937,
+    "name": "Hinata",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 157,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/RTkfTK0n/Hinata-XG.jpg"
+  },
+  {
+    "id": 1756183435553,
+    "name": "Harvey",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 160,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/4gpSB81P/Harvey-XG.jpg"
+  },
+  {
+    "id": 1756183436149,
+    "name": "Juria",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2004,
+    "height": 164,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/GQ5HFqmG/Juria-XG.jpg"
+  },
+  {
+    "id": 1756183436500,
+    "name": "Maya",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2005,
+    "height": 156,
+    "role": [
+      "Lead Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/xt5m1HVn/Maya-XG.jpg"
+  },
+  {
+    "id": 1756183437053,
+    "name": "Cocona",
+    "group": "XG",
+    "agency": "XGALX",
+    "birthYear": 2005,
+    "height": 159,
+    "role": [
+      "Maknae",
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/W44vJxxZ/Cocona-XG.jpg"
+  }
+]
