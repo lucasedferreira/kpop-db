@@ -809,5 +809,83 @@
       "CN"
     ],
     "photo": "https://i.ibb.co/yLxqkqK/Ning-Ning-aespa.jpg"
+  },
+  {
+    "id": 1756256685388,
+    "name": "Jisoo",
+    "group": [
+      "Blackpink",
+      "SOLO"
+    ],
+    "agency": "Blissoo",
+    "birthYear": 1995,
+    "height": 162,
+    "role": [
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/mCNhtfZB/Jisoo-Blackpink.jpg"
+  },
+  {
+    "id": 1756256685857,
+    "name": "Jennie",
+    "group": [
+      "Blackpink",
+      "SOLO"
+    ],
+    "agency": "OA",
+    "birthYear": 1996,
+    "height": 163,
+    "role": [
+      "Lead Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/CKKF221J/Jennie-Blackpink.jpg"
+  },
+  {
+    "id": 1756256686260,
+    "name": "Rosé",
+    "group": [
+      "Blackpink",
+      "SOLO"
+    ],
+    "agency": "THEBLACKLABEL",
+    "birthYear": 1997,
+    "height": 168,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "AU"
+    ],
+    "photo": "https://i.ibb.co/NnKC37CT/Ros-Blackpink.jpg"
+  },
+  {
+    "id": 1756256686640,
+    "name": "Lisa",
+    "group": [
+      "Blackpink",
+      "SOLO"
+    ],
+    "agency": "LLOUD",
+    "birthYear": 1997,
+    "height": 166,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "TH"
+    ],
+    "photo": "https://i.ibb.co/YBHZF5sg/Lisa-Blackpink.jpg"
   }
 ]
