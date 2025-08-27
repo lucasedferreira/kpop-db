@@ -1088,5 +1088,98 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/Q7QnS7jk/Yuna-ITZY.jpg"
+  },
+  {
+    "id": 1756257731289,
+    "name": "Solji",
+    "group": [
+      "EXID"
+    ],
+    "agency": "N/A",
+    "birthYear": 1989,
+    "height": 170,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/HL8pmG1N/Solji-EXID.jpg"
+  },
+  {
+    "id": 1756257731931,
+    "name": "Elly",
+    "group": [
+      "EXID"
+    ],
+    "agency": "N/A",
+    "birthYear": 1991,
+    "height": 168,
+    "role": [
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/0Vct9VCc/Elly-EXID.jpg"
+  },
+  {
+    "id": 1756257732393,
+    "name": "Hani",
+    "group": [
+      "EXID"
+    ],
+    "agency": "N/A",
+    "birthYear": 1992,
+    "height": 168,
+    "role": [
+      "Visual",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/d4WZmPCR/Hani-EXID.jpg"
+  },
+  {
+    "id": 1756257733063,
+    "name": "Hyelin",
+    "group": [
+      "EXID"
+    ],
+    "agency": "N/A",
+    "birthYear": 1993,
+    "height": 167,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/6JcspWxz/Hyelin-EXID.jpg"
+  },
+  {
+    "id": 1756257733476,
+    "name": "Jeonghwa",
+    "group": [
+      "EXID"
+    ],
+    "agency": "N/A",
+    "birthYear": 1995,
+    "height": 169,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/6cZpRhsL/Jeonghwa-EXID.jpg"
   }
 ]
