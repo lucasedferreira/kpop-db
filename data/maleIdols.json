@@ -212,5 +212,136 @@
       "JP"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756317485784,
+    "name": "Jungwon",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 175,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317485785,
+    "name": "Heeseung",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2001,
+    "height": 181,
+    "role": [
+      "Center",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317485786,
+    "name": "Jay",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 180,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317485787,
+    "name": "Jake",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 175,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR",
+      "AU"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317485788,
+    "name": "Sunghoon",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 180,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317485790,
+    "name": "Sunoo",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2003,
+    "height": 177,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317485791,
+    "name": "Ni-Ki",
+    "group": [
+      "Enhypen"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2005,
+    "height": 186,
+    "role": [
+      "Maknae",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": ""
   }
 ]
