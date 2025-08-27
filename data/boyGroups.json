@@ -40,7 +40,7 @@
     "name": "Monsta X",
     "agency": "STARSHIP",
     "debutYear": 2015,
-    "memberCount": 7,
+    "memberCount": 6,
     "status": "active",
     "logo": "https://i.ibb.co/0j4jgTv9/Monsta-X-logo.jpg"
   },
@@ -52,5 +52,14 @@
     "memberCount": 6,
     "status": "active",
     "logo": "https://i.ibb.co/DPYBthXx/P1-Harmony-logo.jpg"
+  },
+  {
+    "id": 1756319234411,
+    "name": "Boynextdoor",
+    "agency": "HYBE",
+    "debutYear": 2023,
+    "memberCount": 6,
+    "status": "active",
+    "logo": "https://i.ibb.co/xSJ0kysK/Boynextdoor-logo.jpg"
   }
 ]
