@@ -2059,5 +2059,91 @@
       "CN"
     ],
     "photo": "https://i.ibb.co/nMzFVHV7/Tzuyu-Twice.jpg"
+  },
+  {
+    "id": 1756325107359,
+    "name": "Minji",
+    "group": [
+      "NewJeans"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 169,
+    "role": [
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4ZZ7sDrr/Minji-New-Jeans.jpg"
+  },
+  {
+    "id": 1756325107959,
+    "name": "Hanni",
+    "group": [
+      "NewJeans"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 162,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "AU"
+    ],
+    "photo": "https://i.ibb.co/CppH8P4M/Hanni-New-Jeans.jpg"
+  },
+  {
+    "id": 1756325108933,
+    "name": "Danielle",
+    "group": [
+      "NewJeans"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2005,
+    "height": 165,
+    "role": [
+      "Center"
+    ],
+    "nationality": [
+      "KR",
+      "AU"
+    ],
+    "photo": "https://i.ibb.co/XMr3FVp/Danielle-New-Jeans.jpg"
+  },
+  {
+    "id": 1756325109615,
+    "name": "Hyein",
+    "group": [
+      "NewJeans"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2008,
+    "height": 170,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4ZjhyyFM/Hyein-New-Jeans.jpg"
+  },
+  {
+    "id": 1756325110227,
+    "name": "Haerin",
+    "group": [
+      "NewJeans"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2006,
+    "height": 164,
+    "role": [
+      "Center"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/C3dVfcLd/Haerin-New-Jeans.jpg"
   }
 ]
