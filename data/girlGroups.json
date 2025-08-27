@@ -259,5 +259,14 @@
     "memberCount": 5,
     "status": "inactive",
     "logo": "https://i.ibb.co/PGX2ctC4/New-Jeans-logo.jpg"
+  },
+  {
+    "id": 1756323436174,
+    "name": "ILLIT",
+    "agency": "HYBE",
+    "debutYear": 2022,
+    "memberCount": 5,
+    "status": "active",
+    "logo": "https://i.ibb.co/rKTjkN0p/ILLIT-logo.jpg"
   }
 ]
