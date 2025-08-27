@@ -90,5 +90,57 @@
       "US"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756316561390,
+    "name": "PJ",
+    "group": [
+      "Big Ocean"
+    ],
+    "agency": "PARASTAR",
+    "birthYear": 1999,
+    "height": 180,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316561391,
+    "name": "Lee Chanyeon",
+    "group": [
+      "Big Ocean"
+    ],
+    "agency": "PARASTAR",
+    "birthYear": 1998,
+    "height": 180,
+    "role": [
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316561392,
+    "name": "Kim Jiseok",
+    "group": [
+      "Big Ocean"
+    ],
+    "agency": "PARASTAR",
+    "birthYear": 2003,
+    "height": 184,
+    "role": [
+      "Maknae",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
