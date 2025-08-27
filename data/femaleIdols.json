@@ -850,7 +850,7 @@
   },
   {
     "id": 1756256686260,
-    "name": "RosÃÂÃÂ©",
+    "name": "RosÃÂÃÂÃÂÃÂ©",
     "group": [
       "Blackpink",
       "SOLO"
@@ -1892,5 +1892,172 @@
       "US"
     ],
     "photo": "https://i.ibb.co/W4gY3L3J/Jessica-Girl-s-Generation.jpg"
+  },
+  {
+    "id": 1756320860884,
+    "name": "Nayeon",
+    "group": [
+      "Twice",
+      "SOLO"
+    ],
+    "agency": "JYP",
+    "birthYear": 1995,
+    "height": 163,
+    "role": [
+      "Center",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/DshC3VQ/Nayeon-Twice.jpg"
+  },
+  {
+    "id": 1756320862096,
+    "name": "Jeongyeon",
+    "group": [
+      "Twice"
+    ],
+    "agency": "JYP",
+    "birthYear": 1996,
+    "height": 168,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/N6MxVfmB/Jeongyeon-Twice.jpg"
+  },
+  {
+    "id": 1756320863104,
+    "name": "Momo",
+    "group": [
+      "Twice"
+    ],
+    "agency": "JYP",
+    "birthYear": 1996,
+    "height": 163,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/xqvXJwnq/Momo-Twice.jpg"
+  },
+  {
+    "id": 1756320864030,
+    "name": "Sana",
+    "group": [
+      "Twice"
+    ],
+    "agency": "JYP",
+    "birthYear": 1996,
+    "height": 163,
+    "role": [
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/W4j7MTrs/Sana-Twice.jpg"
+  },
+  {
+    "id": 1756320866034,
+    "name": "Jihyo",
+    "group": [
+      "Twice",
+      "SOLO"
+    ],
+    "agency": "JYP",
+    "birthYear": 1997,
+    "height": 160,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/zWxmhQDJ/Jihyo-Twice.jpg"
+  },
+  {
+    "id": 1756320867142,
+    "name": "Mina",
+    "group": [
+      "Twice"
+    ],
+    "agency": "JYP",
+    "birthYear": 1997,
+    "height": 163,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/n88ZjfD2/Mina-Twice.jpg"
+  },
+  {
+    "id": 1756320867952,
+    "name": "Dahyun",
+    "group": [
+      "Twice"
+    ],
+    "agency": "JYP",
+    "birthYear": 1998,
+    "height": 161,
+    "role": [
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/YV10Bks/Dahyun-Twice.jpg"
+  },
+  {
+    "id": 1756320869687,
+    "name": "Chaeyoung",
+    "group": [
+      "Twice"
+    ],
+    "agency": "JYP",
+    "birthYear": 1999,
+    "height": 159,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/vxQcFchF/Chaeyoung-Twice.jpg"
+  },
+  {
+    "id": 1756320871197,
+    "name": "Tzuyu",
+    "group": [
+      "Twice",
+      "SOLO"
+    ],
+    "agency": "JYP",
+    "birthYear": 1999,
+    "height": 170,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Sub Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/nMzFVHV7/Tzuyu-Twice.jpg"
   }
 ]
