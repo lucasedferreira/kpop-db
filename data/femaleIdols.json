@@ -887,5 +887,108 @@
       "TH"
     ],
     "photo": "https://i.ibb.co/YBHZF5sg/Lisa-Blackpink.jpg"
+  },
+  {
+    "id": 1756257036394,
+    "name": "Sumin",
+    "group": [
+      "STAYC"
+    ],
+    "agency": "HIGHUP",
+    "birthYear": 2001,
+    "height": 159,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/0RBY9mkq/Sumin-STAYC.jpg"
+  },
+  {
+    "id": 1756257036860,
+    "name": "Sieun",
+    "group": [
+      "STAYC"
+    ],
+    "agency": "HIGHUP",
+    "birthYear": 2001,
+    "height": 159,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/nM9RyRkK/Sieun-STAYC.jpg"
+  },
+  {
+    "id": 1756257037249,
+    "name": "Isa",
+    "group": [
+      "STAYC"
+    ],
+    "agency": "HIGHUP",
+    "birthYear": 2002,
+    "height": 165,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/8LdDRShG/Isa-STAYC.jpg"
+  },
+  {
+    "id": 1756257037647,
+    "name": "Seeun",
+    "group": [
+      "STAYC"
+    ],
+    "agency": "HIGHUP",
+    "birthYear": 2003,
+    "height": 167,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/nXJMp9t/Seeun-STAYC.jpg"
+  },
+  {
+    "id": 1756257038024,
+    "name": "Yoon",
+    "group": [
+      "STAYC"
+    ],
+    "agency": "HIGHUP",
+    "birthYear": 2004,
+    "height": 172,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/C5QXQm1Q/Yoon-STAYC.jpg"
+  },
+  {
+    "id": 1756257038671,
+    "name": "J",
+    "group": [
+      "STAYC"
+    ],
+    "agency": "HIGHUP",
+    "birthYear": 2004,
+    "height": 169,
+    "role": [
+      "Maknae",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/5WS4rt3b/J-STAYC.jpg"
   }
 ]
