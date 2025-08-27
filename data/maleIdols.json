@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "id": 1756316096939,
+    "name": "Soobin",
+    "group": [
+      "TXT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2000,
+    "height": 185,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316096940,
+    "name": "Yeonjun",
+    "group": [
+      "TXT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 1999,
+    "height": 181,
+    "role": [
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316096941,
+    "name": "Beomgyu",
+    "group": [
+      "TXT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2001,
+    "height": 180,
+    "role": [
+      "Visual"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316096942,
+    "name": "Taehyun",
+    "group": [
+      "TXT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 177,
+    "role": [
+      "Visual",
+      "Main Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316096943,
+    "name": "Kai",
+    "group": [
+      "TXT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 183,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": ""
+  }
+]
