@@ -583,5 +583,109 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756319519014,
+    "name": "Jaehyun",
+    "group": [
+      "Boynextdoor"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2003,
+    "height": 177,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756319519015,
+    "name": "Sungho",
+    "group": [
+      "Boynextdoor"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2003,
+    "height": 173,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756319519016,
+    "name": "Riwoo",
+    "group": [
+      "Boynextdoor"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2003,
+    "height": 170,
+    "role": [
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756319519017,
+    "name": "Taesan",
+    "group": [
+      "Boynextdoor"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 182,
+    "role": [
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756319519018,
+    "name": "Leehan",
+    "group": [
+      "Boynextdoor"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 180,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756319519019,
+    "name": "Woonhak",
+    "group": [
+      "Boynextdoor"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2006,
+    "height": 182,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
