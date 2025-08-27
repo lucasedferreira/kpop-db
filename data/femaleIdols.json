@@ -850,7 +850,7 @@
   },
   {
     "id": 1756256686260,
-    "name": "RosÃÂ©",
+    "name": "RosÃÂÃÂ©",
     "group": [
       "Blackpink",
       "SOLO"
@@ -1556,5 +1556,85 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756316724898,
+    "name": "CL",
+    "group": [
+      "2NE1",
+      "SOLO"
+    ],
+    "agency": "YG",
+    "birthYear": 1991,
+    "height": 1,
+    "role": [
+      "Leader",
+      "Lead Vocal",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4ZcRFKVT/CL-2NE1.jpg"
+  },
+  {
+    "id": 1756316725659,
+    "name": "Dara",
+    "group": [
+      "2NE1",
+      "SOLO"
+    ],
+    "agency": "YG",
+    "birthYear": 1984,
+    "height": 162,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/YTDHtqsp/Dara-2-NE1.jpg"
+  },
+  {
+    "id": 1756316726210,
+    "name": "Park Bom",
+    "group": [
+      "2NE1",
+      "SOLO"
+    ],
+    "agency": "YG",
+    "birthYear": 1984,
+    "height": 165,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/fVyFcD8C/Park-Bom-2-NE1.jpg"
+  },
+  {
+    "id": 1756316726736,
+    "name": "Minzy",
+    "group": [
+      "2NE1",
+      "SOLO"
+    ],
+    "agency": "YG",
+    "birthYear": 1994,
+    "height": 161,
+    "role": [
+      "Maknae",
+      "Lead Vocal",
+      "Lead Dancer",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/NnHx7QWn/Minzy-2-NE1.jpg"
   }
 ]
