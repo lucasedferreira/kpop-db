@@ -2230,5 +2230,116 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/LXsPhg8x/Yunah-ILLIT.jpg"
+  },
+  {
+    "id": 1756325844526,
+    "name": "Bae",
+    "group": [
+      "NMIXX"
+    ],
+    "agency": "JYP",
+    "birthYear": 2004,
+    "height": 170,
+    "role": [
+      "Lead Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/B5H4wNhr/Bae-NMIXX.jpg"
+  },
+  {
+    "id": 1756325845229,
+    "name": "Lily",
+    "group": [
+      "NMIXX"
+    ],
+    "agency": "JYP",
+    "birthYear": 2002,
+    "height": 164,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "AU"
+    ],
+    "photo": "https://i.ibb.co/8nC4F5Rb/Lily-NMIXX.jpg"
+  },
+  {
+    "id": 1756325845624,
+    "name": "Haewon",
+    "group": [
+      "NMIXX"
+    ],
+    "agency": "JYP",
+    "birthYear": 2003,
+    "height": 163,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/SbwDF1g/Haewon-NMIXX.jpg"
+  },
+  {
+    "id": 1756325845996,
+    "name": "Kyujin",
+    "group": [
+      "NMIXX"
+    ],
+    "agency": "JYP",
+    "birthYear": 2006,
+    "height": 164,
+    "role": [
+      "Maknae",
+      "Vocal",
+      "Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Fbg2q2NP/Kyujin-NMIXX.jpg"
+  },
+  {
+    "id": 1756325846670,
+    "name": "Sullyoon",
+    "group": [
+      "NMIXX"
+    ],
+    "agency": "JYP",
+    "birthYear": 2004,
+    "height": 168,
+    "role": [
+      "Lead Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/S4005y6S/Sullyoon-NMIXX.jpg"
+  },
+  {
+    "id": 1756325847084,
+    "name": "Jiwoo",
+    "group": [
+      "NMIXX"
+    ],
+    "agency": "JYP",
+    "birthYear": 2005,
+    "height": 161,
+    "role": [
+      "Vocal",
+      "Main Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/S7RrdFBj/Jiwoo-NMIXX.jpg"
   }
 ]
