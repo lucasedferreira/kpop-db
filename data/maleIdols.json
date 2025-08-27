@@ -343,5 +343,117 @@
       "JP"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756318314914,
+    "name": "Shownu",
+    "group": [
+      "Monsta X"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 1992,
+    "height": 181,
+    "role": [
+      "Leader",
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756318314915,
+    "name": "Minhyuk",
+    "group": [
+      "Monsta X"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 1993,
+    "height": 179,
+    "role": [
+      "Visual",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756318314916,
+    "name": "Kihyun",
+    "group": [
+      "Monsta X"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 1993,
+    "height": 174,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756318314917,
+    "name": "Hyungwon",
+    "group": [
+      "Monsta X"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 1994,
+    "height": 182,
+    "role": [
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756318314918,
+    "name": "Joohoney",
+    "group": [
+      "Monsta X"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 1994,
+    "height": 179,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756318314919,
+    "name": "I.M",
+    "group": [
+      "Monsta X"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 1996,
+    "height": 175,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
