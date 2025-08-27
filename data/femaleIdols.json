@@ -2145,5 +2145,90 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/C3dVfcLd/Haerin-New-Jeans.jpg"
+  },
+  {
+    "id": 1756325500334,
+    "name": "Wonhee",
+    "group": [
+      "ILLIT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2007,
+    "height": 162,
+    "role": [
+      "Center"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/bMr3ZxbP/Wonhee-ILLIT.jpg"
+  },
+  {
+    "id": 1756325501201,
+    "name": "Iroha",
+    "group": [
+      "ILLIT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2008,
+    "height": 158,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/4w9myLkf/Iroha-ILLIT.jpg"
+  },
+  {
+    "id": 1756325502570,
+    "name": "Minju",
+    "group": [
+      "ILLIT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 163,
+    "role": [
+      "Center"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/0pD5mSXF/Minju-ILLIT.jpg"
+  },
+  {
+    "id": 1756325503729,
+    "name": "Moka",
+    "group": [
+      "ILLIT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 162,
+    "role": [
+      "Center"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/SwsY9TXv/Moka-ILLIT.jpg"
+  },
+  {
+    "id": 1756325504177,
+    "name": "Yunah",
+    "group": [
+      "ILLIT"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 168,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/LXsPhg8x/Yunah-ILLIT.jpg"
   }
 ]
