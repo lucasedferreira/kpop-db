@@ -142,5 +142,75 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756316939762,
+    "name": "Wumuti",
+    "group": [
+      "XLOV"
+    ],
+    "agency": "257 Entertainment",
+    "birthYear": 1999,
+    "height": 175,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316939763,
+    "name": "Rui",
+    "group": [
+      "XLOV"
+    ],
+    "agency": "257 Entertainment",
+    "birthYear": 2000,
+    "height": 175,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316939764,
+    "name": "Hyun",
+    "group": [
+      "XLOV"
+    ],
+    "agency": "257 Entertainment",
+    "birthYear": 2002,
+    "height": 185,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756316939765,
+    "name": "Haru",
+    "group": [
+      "XLOV"
+    ],
+    "agency": "257 Entertainment",
+    "birthYear": 2006,
+    "height": 168,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": ""
   }
 ]
