@@ -850,7 +850,7 @@
   },
   {
     "id": 1756256686260,
-    "name": "RosÃ©",
+    "name": "RosÃÂ©",
     "group": [
       "Blackpink",
       "SOLO"
@@ -1348,5 +1348,100 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/4Rf1q9yb/Taeha-Momoland.jpg"
+  },
+  {
+    "id": 1756264100278,
+    "name": "Irene",
+    "group": [
+      "Red Velvet"
+    ],
+    "agency": "SM",
+    "birthYear": 1991,
+    "height": 158,
+    "role": [
+      "Leader",
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756264100279,
+    "name": "Seulgi",
+    "group": [
+      "Red Velvet"
+    ],
+    "agency": "SM",
+    "birthYear": 1994,
+    "height": 161,
+    "role": [
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756264100280,
+    "name": "Wendy",
+    "group": [
+      "Red Velvet"
+    ],
+    "agency": "SM",
+    "birthYear": 1994,
+    "height": 159,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756264100281,
+    "name": "Joy",
+    "group": [
+      "Red Velvet"
+    ],
+    "agency": "SM",
+    "birthYear": 1996,
+    "height": 167,
+    "role": [
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756264100282,
+    "name": "Yeri",
+    "group": [
+      "Red Velvet"
+    ],
+    "agency": "SM",
+    "birthYear": 1999,
+    "height": 158,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
