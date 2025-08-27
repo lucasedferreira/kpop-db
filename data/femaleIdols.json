@@ -990,5 +990,103 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/5WS4rt3b/J-STAYC.jpg"
+  },
+  {
+    "id": 1756257326349,
+    "name": "Yeji",
+    "group": [
+      "ITZY"
+    ],
+    "agency": "JYP",
+    "birthYear": 2000,
+    "height": 167,
+    "role": [
+      "Leader",
+      "Lead Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/kbBdkL0/Yeji-ITZY.jpg"
+  },
+  {
+    "id": 1756257327852,
+    "name": "Lia",
+    "group": [
+      "ITZY"
+    ],
+    "agency": "JYP",
+    "birthYear": 2000,
+    "height": 162,
+    "role": [
+      "Main Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/SXbR4B7F/Lia-ITZY.jpg"
+  },
+  {
+    "id": 1756257330845,
+    "name": "Ryujin",
+    "group": [
+      "ITZY"
+    ],
+    "agency": "JYP",
+    "birthYear": 2001,
+    "height": 164,
+    "role": [
+      "Center",
+      "Sub Vocal",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Fkb4WJxG/Ryujin-ITZY.jpg"
+  },
+  {
+    "id": 1756257332293,
+    "name": "Chaeryeong",
+    "group": [
+      "ITZY"
+    ],
+    "agency": "JYP",
+    "birthYear": 2001,
+    "height": 166,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/TMDCjpfy/Chaeryeong-ITZY.jpg"
+  },
+  {
+    "id": 1756257333468,
+    "name": "Yuna",
+    "group": [
+      "ITZY"
+    ],
+    "agency": "JYP",
+    "birthYear": 2003,
+    "height": 170,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Sub Vocal",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Q7QnS7jk/Yuna-ITZY.jpg"
   }
 ]
