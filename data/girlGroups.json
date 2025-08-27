@@ -169,5 +169,14 @@
     "memberCount": 3,
     "status": "active",
     "logo": "https://i.ibb.co/0pmVK0d5/VIVIZ-logo.jpg"
+  },
+  {
+    "id": 1756264296110,
+    "name": "GFriend",
+    "agency": "HYBE",
+    "debutYear": 2015,
+    "memberCount": 6,
+    "status": "inactive",
+    "logo": "https://i.ibb.co/1JfwtPV6/GFriend-logo.jpg"
   }
 ]
