@@ -850,7 +850,7 @@
   },
   {
     "id": 1756256686260,
-    "name": "Rosé",
+    "name": "RosÃ©",
     "group": [
       "Blackpink",
       "SOLO"
@@ -1181,5 +1181,172 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/6cZpRhsL/Jeonghwa-EXID.jpg"
+  },
+  {
+    "id": 1756263435970,
+    "name": "Hyebin",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "MLD",
+    "birthYear": 1996,
+    "height": 165,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gbCZVqd2/Hyebin-Momoland.jpg"
+  },
+  {
+    "id": 1756263437127,
+    "name": "Jane",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "MLD",
+    "birthYear": 1997,
+    "height": 167,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/S795TVW7/Jane-Momoland.jpg"
+  },
+  {
+    "id": 1756263438058,
+    "name": "Nayun",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "MLD",
+    "birthYear": 1998,
+    "height": 168,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Ps0k4Jmw/Nayun-Momoland.jpg"
+  },
+  {
+    "id": 1756263438933,
+    "name": "JooE",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "MLD",
+    "birthYear": 1999,
+    "height": 164,
+    "role": [
+      "Lead Vocal",
+      "Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/kpBJwWg/Joo-E-Momoland.jpg"
+  },
+  {
+    "id": 1756263439584,
+    "name": "Ahin",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "MLD",
+    "birthYear": 1999,
+    "height": 160,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/wh2mpSJV/Ahin-Momoland.jpg"
+  },
+  {
+    "id": 1756263440246,
+    "name": "Nancy",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "MLD",
+    "birthYear": 2000,
+    "height": 162,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Center",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": "https://i.ibb.co/XxWbMTkR/Nancy-Momoland.jpg"
+  },
+  {
+    "id": 1756263440938,
+    "name": "Daisy",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "N/A",
+    "birthYear": 1999,
+    "height": 163,
+    "role": [
+      "Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/bgrK10Hz/Daisy-Momoland.jpg"
+  },
+  {
+    "id": 1756263441387,
+    "name": "Yeonwoo",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "N/A",
+    "birthYear": 1996,
+    "height": 170,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/hFZw5vz2/Yeonwoo-Momoland.jpg"
+  },
+  {
+    "id": 1756263442084,
+    "name": "Taeha",
+    "group": [
+      "Momoland"
+    ],
+    "agency": "N/A",
+    "birthYear": 1998,
+    "height": 163,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4Rf1q9yb/Taeha-Momoland.jpg"
   }
 ]
