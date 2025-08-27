@@ -1636,5 +1636,83 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/NnHx7QWn/Minzy-2-NE1.jpg"
+  },
+  {
+    "id": 1756317664068,
+    "name": "Yeeun",
+    "group": [
+      "Wonders Girls",
+      "SOLO"
+    ],
+    "agency": "Amoeba Culture",
+    "birthYear": 1992,
+    "height": 166,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756317666164,
+    "name": "Yubin",
+    "group": [
+      "Wonders Girls",
+      "SOLO"
+    ],
+    "agency": "rrr Entertainment",
+    "birthYear": 1988,
+    "height": 161,
+    "role": [
+      "Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/WNjwY76h/Yubin-Wonders-Girls.jpg"
+  },
+  {
+    "id": 1756317666748,
+    "name": "Hyelim",
+    "group": [
+      "Wonders Girls",
+      "SOLO"
+    ],
+    "agency": "Wave Entertainment",
+    "birthYear": 1992,
+    "height": 165,
+    "role": [
+      "Maknae",
+      "Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/1G9QL3d9/Hyelim-Wonders-Girls.jpg"
+  },
+  {
+    "id": 1756317667224,
+    "name": "Sunmi",
+    "group": [
+      "Wonders Girls",
+      "SOLO"
+    ],
+    "agency": "Abyss Company",
+    "birthYear": 1992,
+    "height": 166,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/mVQh32MH/Sunmi-Wonders-Girls.jpg"
   }
 ]
