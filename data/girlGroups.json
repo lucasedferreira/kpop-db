@@ -277,5 +277,13 @@
     "memberCount": 6,
     "status": "active",
     "logo": "https://i.ibb.co/R4GBrc4b/NMIXX-logo.jpg"
+  },
+  {
+    "name": "Pristin",
+    "agency": "Pledis",
+    "debutYear": 2017,
+    "memberCount": 10,
+    "status": "inactive",
+    "logo": "https://i.ibb.co/7Jb8TkSn/Pristin-logo.jpg"
   }
 ]
