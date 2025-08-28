@@ -688,5 +688,156 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756399735585,
+    "name": "Bangchan",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 1997,
+    "height": 171,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "AU"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735586,
+    "name": "Lee Know",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 1998,
+    "height": 172,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735587,
+    "name": "Changbin",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 1999,
+    "height": 167,
+    "role": [
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735588,
+    "name": "Hyunjin",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 2000,
+    "height": 179,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735589,
+    "name": "Han",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 2000,
+    "height": 169,
+    "role": [
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735590,
+    "name": "Felix",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 2000,
+    "height": 171,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "AU"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735592,
+    "name": "Seungmin",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 2000,
+    "height": 178,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756399735593,
+    "name": "I.N",
+    "group": [
+      "Stray kids"
+    ],
+    "agency": "JYP",
+    "birthYear": 2001,
+    "height": 172,
+    "role": [
+      "Maknae",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
