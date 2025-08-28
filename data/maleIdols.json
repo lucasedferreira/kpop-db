@@ -839,5 +839,190 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756400423112284,
+    "name": "Sangyeon",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1996,
+    "height": 176,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423112546,
+    "name": "Jacob",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1997,
+    "height": 177,
+    "role": [
+      "Lead Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "CA"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423112586,
+    "name": "Younghoon",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1997,
+    "height": 183,
+    "role": [
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423112747,
+    "name": "Hyunjae",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1997,
+    "height": 179,
+    "role": [
+      "Visual",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423112962,
+    "name": "Juyeon",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1998,
+    "height": 181,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423112945,
+    "name": "Kevin",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1998,
+    "height": 176,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "CA"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423113366,
+    "name": "New",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1998,
+    "height": 178,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423113906,
+    "name": "Q",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 1998,
+    "height": 175,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423113647,
+    "name": "Sunwoo",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 2000,
+    "height": 177,
+    "role": [
+      "Sub Vocal",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756400423113227,
+    "name": "Eric",
+    "group": [
+      "The Boyz"
+    ],
+    "agency": "ONE HUNDRED",
+    "birthYear": 2000,
+    "height": 174,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": ""
   }
 ]
