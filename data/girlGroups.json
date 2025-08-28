@@ -293,5 +293,14 @@
     "memberCount": 8,
     "status": "inactive",
     "logo": "https://i.ibb.co/z3pR4kB/Gugudan-logo.jpg"
+  },
+  {
+    "id": 1756351676691437,
+    "name": "teste",
+    "agency": "teste",
+    "debutYear": 123,
+    "memberCount": 123,
+    "status": "active",
+    "logo": "https://i.ibb.co/S4YmyKzm/teste-logo.jpg"
   }
 ]
