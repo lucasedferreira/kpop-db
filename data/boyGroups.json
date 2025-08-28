@@ -80,5 +80,14 @@
     "memberCount": 10,
     "status": "active",
     "photo": "https://i.ibb.co/hxhvtDrV/The-Boyz-logo.jpg"
+  },
+  {
+    "id": 1756400566923238,
+    "name": "SEVENTEEN",
+    "agency": "HYBE",
+    "debutYear": 2015,
+    "memberCount": 13,
+    "status": "active",
+    "photo": "https://i.ibb.co/FbXtsr5F/SEVENTEEN-logo.jpg"
   }
 ]
