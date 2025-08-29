@@ -331,5 +331,14 @@
     "memberCount": 5,
     "status": "active",
     "photo": "https://i.ibb.co/tMLFDZHc/YOUNG-POSSE-logo.jpg"
+  },
+  {
+    "id": 1756430826537582,
+    "name": "Weeekly",
+    "agency": "IST",
+    "debutYear": 2020,
+    "memberCount": 7,
+    "status": "inactive",
+    "photo": "https://i.ibb.co/9HDCR9qb/Weeekly-logo.jpg"
   }
 ]
