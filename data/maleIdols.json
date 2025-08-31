@@ -2259,5 +2259,186 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/39w3YJMB/Sehun-EXO.jpg"
+  },
+  {
+    "id": 1756616983570545,
+    "name": "Junkyu",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2000,
+    "height": 178,
+    "role": [
+      "Leader",
+      "Visual",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Jj0S83pM/Junkyu-TREASURE.jpg"
+  },
+  {
+    "id": 1756616983913190,
+    "name": "Asahi",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2001,
+    "height": 172,
+    "role": [
+      "Leader",
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/nMzfL2S1/Asahi-TREASURE.jpg"
+  },
+  {
+    "id": 1756616984210339,
+    "name": "Choi Hyun-suk",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 1999,
+    "height": 171,
+    "role": [
+      "Vocal",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/fzRnNyq4/Choi-Hyun-suk-TREASURE.jpg"
+  },
+  {
+    "id": 1756616984504712,
+    "name": "Jihoon",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2000,
+    "height": 178,
+    "role": [
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/v4jwb7Vb/Jihoon-TREASURE.jpg"
+  },
+  {
+    "id": 1756616985065668,
+    "name": "Yoshi",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2000,
+    "height": 179,
+    "role": [
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/DPgrXL18/Yoshi-TREASURE.jpg"
+  },
+  {
+    "id": 175661698537662,
+    "name": "Yoon Jae-hyuk",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2001,
+    "height": 178,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/7NTDyxJf/Yoon-Jae-hyuk-TREASURE.jpg"
+  },
+  {
+    "id": 1756616985697267,
+    "name": "Doyoung",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2003,
+    "height": 177,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/C57ZkVKD/Doyoung-TREASURE.jpg"
+  },
+  {
+    "id": 1756616986012674,
+    "name": "Haruto",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2004,
+    "height": 183,
+    "role": [
+      "Visual",
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/xKxkFc8z/Haruto-TREASURE.jpg"
+  },
+  {
+    "id": 1756616986334744,
+    "name": "Park Jeong-woo",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2004,
+    "height": 181,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/fh6VD4p/Park-Jeong-woo-TREASURE.jpg"
+  },
+  {
+    "id": 1756616986666272,
+    "name": "So Jung-hwan",
+    "group": [
+      "TREASURE"
+    ],
+    "agency": "YG",
+    "birthYear": 2005,
+    "height": 180,
+    "role": [
+      "Maknae",
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/3yP7824N/So-Jung-hwan-TREASURE.jpg"
   }
 ]
