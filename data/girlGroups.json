@@ -374,5 +374,14 @@
     "memberCount": 4,
     "status": "active",
     "photo": "https://i.ibb.co/hF3JQqTs/Mamamoo-logo.jpg"
+  },
+  {
+    "id": 1756669933996891,
+    "name": "F(X)",
+    "agency": "SM",
+    "debutYear": 2007,
+    "memberCount": 5,
+    "status": "inactive",
+    "photo": "https://i.ibb.co/Wv5V639K/F-X-logo.jpg"
   }
 ]
