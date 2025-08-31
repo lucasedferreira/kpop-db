@@ -3081,5 +3081,133 @@
       "TW"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756613017079636,
+    "name": "Jiu",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1994,
+    "height": 167,
+    "role": [
+      "Leader",
+      "Visual",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613017079398,
+    "name": "Sua",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1994,
+    "height": 162,
+    "role": [
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613017079794,
+    "name": "Siyeon",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1995,
+    "height": 166,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613017079393,
+    "name": "Handong",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1996,
+    "height": 165,
+    "role": [
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613017079641,
+    "name": "Yoohyeon",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1997,
+    "height": 168,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175661301707985,
+    "name": "Dami",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1997,
+    "height": 163,
+    "role": [
+      "Sub Vocal",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175661301707965,
+    "name": "Gahyun",
+    "group": [
+      "Dreamcatcher"
+    ],
+    "agency": "Dreamcatcher Company",
+    "birthYear": 1999,
+    "height": 160,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
