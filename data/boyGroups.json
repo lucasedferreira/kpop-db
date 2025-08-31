@@ -42,7 +42,6 @@
     "debutYear": 2015,
     "memberCount": 7,
     "status": "active",
-    "photo": "https://i.ibb.co/0j4jgTv9/Monsta-X-logo.jpg",
     "photo": "https://i.ibb.co/0j4jgTv9/Monsta-X-logo.jpg"
   },
   {
@@ -98,5 +97,14 @@
     "memberCount": 7,
     "status": "active",
     "photo": "https://i.ibb.co/rXh2pmY/BTS-logo.jpg"
+  },
+  {
+    "id": 175661381597098,
+    "name": "ATEEZ",
+    "agency": "KQ",
+    "debutYear": 2018,
+    "memberCount": 8,
+    "status": "active",
+    "photo": "https://i.ibb.co/wZR8GHJy/ATEEZ-logo.jpg"
   }
 ]
