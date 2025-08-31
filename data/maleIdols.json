@@ -2852,5 +2852,174 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/KjK2RMwv/Donghyun-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618860644902,
+    "name": "Sung Han Bin",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Studio GL1DE",
+    "birthYear": 2001,
+    "height": 179,
+    "role": [
+      "Leader",
+      "Visual",
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Pvg2Yr71/Sung-Han-Bin-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618860956508,
+    "name": "Kim Ji Woong",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Nest Management",
+    "birthYear": 1998,
+    "height": 181,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/LTbBrnR/Kim-Ji-Woong-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618861254379,
+    "name": "Zhang Hao",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 2000,
+    "height": 180,
+    "role": [
+      "Visual",
+      "Center",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/VWTNGDbJ/Zhang-Hao-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618861595595,
+    "name": "Seok Matthew",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "MNH",
+    "birthYear": 2002,
+    "height": 170,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "CA"
+    ],
+    "photo": "https://i.ibb.co/G4YR9Xhd/Seok-Matthew-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618861894205,
+    "name": "Kim Tae Rae",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "WAKEONE",
+    "birthYear": 2002,
+    "height": 174,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/JjjpmYjd/Kim-Tae-Rae-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 175661886225930,
+    "name": "Ricky",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 2004,
+    "height": 184,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/W4PnCb9h/Ricky-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618862628147,
+    "name": "Kim Gyu Vin",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 2004,
+    "height": 186,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/HTS54M0d/Kim-Gyu-Vin-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618862928403,
+    "name": "Park Gun Wook",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Jellyfish",
+    "birthYear": 2005,
+    "height": 183,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/QjqqJngv/Park-Gun-Wook-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756618863312531,
+    "name": "Han Yu Jin",
+    "group": [
+      "ZEROBASEONE"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 2007,
+    "height": 181,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/chMs6Vqc/Han-Yu-Jin-ZEROBASEONE.jpg"
   }
 ]
