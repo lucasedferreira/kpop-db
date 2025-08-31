@@ -2109,5 +2109,155 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/dwWw9Gk5/Wooseok-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616533531695,
+    "name": "Suho",
+    "group": [
+      "EXO"
+    ],
+    "agency": "SM",
+    "birthYear": 1991,
+    "height": 173,
+    "role": [
+      "Leader",
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/7Fb5BMx/Suho-EXO.jpg"
+  },
+  {
+    "id": 1756616535236634,
+    "name": "Xiumin",
+    "group": [
+      "EXO"
+    ],
+    "agency": "SM",
+    "birthYear": 1990,
+    "height": 172,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/RkVZ46S4/Xiumin-EXO.jpg"
+  },
+  {
+    "id": 1756616537325302,
+    "name": "Baekhyun",
+    "group": [
+      "EXO",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1992,
+    "height": 174,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/99yS7rkx/Baekhyun-EXO.jpg"
+  },
+  {
+    "id": 1756616538737917,
+    "name": "Chen",
+    "group": [
+      "EXO"
+    ],
+    "agency": "SM",
+    "birthYear": 1992,
+    "height": 172,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/8njd4ZhP/Chen-EXO.jpg"
+  },
+  {
+    "id": 1756616540063464,
+    "name": "Chanyeol",
+    "group": [
+      "EXO"
+    ],
+    "agency": "SM",
+    "birthYear": 1992,
+    "height": 186,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/HJPGpcV/Chanyeol-EXO.jpg"
+  },
+  {
+    "id": 1756616541833313,
+    "name": "D.O.",
+    "group": [
+      "EXO"
+    ],
+    "agency": "SM",
+    "birthYear": 1993,
+    "height": 172,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4qJg2kc/D-O.jpg"
+  },
+  {
+    "id": 1756616543100971,
+    "name": "Kai",
+    "group": [
+      "EXO",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1994,
+    "height": 182,
+    "role": [
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/C33jk2Yp/Kai-EXO.jpg"
+  },
+  {
+    "id": 175661654513837,
+    "name": "Sehun",
+    "group": [
+      "EXO"
+    ],
+    "agency": "SM",
+    "birthYear": 1994,
+    "height": 183,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/39w3YJMB/Sehun-EXO.jpg"
   }
 ]
