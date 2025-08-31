@@ -3495,5 +3495,108 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/cGcfCkS/Sulli-F-X.jpg"
+  },
+  {
+    "id": 1756682751337419,
+    "name": "Sophia",
+    "group": [
+      "KATSEYE"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 167,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "US",
+      "BR"
+    ],
+    "photo": "https://i.ibb.co/j9bQSd4d/Sophia-KATSEYE.jpg"
+  },
+  {
+    "id": 1756682751964393,
+    "name": "Manon",
+    "group": [
+      "KATSEYE"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2002,
+    "height": 166,
+    "role": [
+      "Visual"
+    ],
+    "nationality": [
+      "BR"
+    ],
+    "photo": "https://i.ibb.co/W4hdXHcr/Manon-KATSEYE.jpg"
+  },
+  {
+    "id": 1756682752305532,
+    "name": "Daniela",
+    "group": [
+      "KATSEYE"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2004,
+    "height": 165,
+    "role": [
+      "Main Dancer"
+    ],
+    "nationality": [
+      "US"
+    ],
+    "photo": "https://i.ibb.co/WvtgQQM9/Daniela-KATSEYE.jpg"
+  },
+  {
+    "id": 1756682753057798,
+    "name": "Lara",
+    "group": [
+      "KATSEYE"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2005,
+    "height": 167,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "US"
+    ],
+    "photo": "https://i.ibb.co/tpcmZS9F/Lara-KATSEYE.jpg"
+  },
+  {
+    "id": 1756682753361252,
+    "name": "Megan",
+    "group": [
+      "KATSEYE"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2006,
+    "height": 169,
+    "role": [
+      "N/A"
+    ],
+    "nationality": [
+      "US"
+    ],
+    "photo": "https://i.ibb.co/DgCh87wj/Megan-KATSEYE.jpg"
+  },
+  {
+    "id": 1756682753882887,
+    "name": "Yoonchae",
+    "group": [
+      "KATSEYE"
+    ],
+    "agency": "HYBE",
+    "birthYear": 2007,
+    "height": 170,
+    "role": [
+      "Maknae"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Y79jrvyQ/Yoonchae-KATSEYE.jpg"
   }
 ]
