@@ -1542,5 +1542,100 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/pBnF3nwD/Jongho-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614901898705,
+    "name": "Jinu",
+    "group": [
+      "Saja Boys"
+    ],
+    "agency": "Netflix",
+    "birthYear": 2025,
+    "height": 180,
+    "role": [
+      "Leader",
+      "Visual",
+      "Center",
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/23wdqsTR/Jinu-Saja-Boys.jpg"
+  },
+  {
+    "id": 1756614902424819,
+    "name": "Mystery",
+    "group": [
+      "Saja Boys"
+    ],
+    "agency": "Netflix",
+    "birthYear": 2025,
+    "height": 180,
+    "role": [
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/5qLy6FK/Mystery-Saja-Boys.jpg"
+  },
+  {
+    "id": 1756614902763721,
+    "name": "Abby",
+    "group": [
+      "Saja Boys"
+    ],
+    "agency": "Netflix",
+    "birthYear": 2025,
+    "height": 185,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/c9gfcWQ/Abby-Saja-Boys.jpg"
+  },
+  {
+    "id": 1756614903104862,
+    "name": "Romance",
+    "group": [
+      "Saja Boys"
+    ],
+    "agency": "Netflix",
+    "birthYear": 2025,
+    "height": 177,
+    "role": [
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gLgyHVhs/Romance-Saja-Boys.jpg"
+  },
+  {
+    "id": 1756614903472578,
+    "name": "Baby",
+    "group": [
+      "Saja Boys"
+    ],
+    "agency": "Netflix",
+    "birthYear": 2025,
+    "height": 175,
+    "role": [
+      "Maknae",
+      "Main Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/G3kDPpmb/Baby-Saja-Boys.jpg"
   }
 ]
