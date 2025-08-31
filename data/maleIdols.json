@@ -2727,5 +2727,130 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/FqXPmbvZ/Sanha-ASTRO.jpg"
+  },
+  {
+    "id": 1756618412697156,
+    "name": "Jangjun",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "Woollim",
+    "birthYear": 1997,
+    "height": 178,
+    "role": [
+      "Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/SDfQZm0s/Jangjun-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618414221420,
+    "name": "Joochan",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "Woollim",
+    "birthYear": 1999,
+    "height": 175,
+    "role": [
+      "Maknae",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/SwTPmGd5/Joochan-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618416121599,
+    "name": "Daeyeol",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "N/A",
+    "birthYear": 1993,
+    "height": 181,
+    "role": [
+      "Leader",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/0R9WCzxZ/Daeyeol-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618418385603,
+    "name": "Y",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "N/A",
+    "birthYear": 1995,
+    "height": 177,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Xk5ZmgVq/Y-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618420401306,
+    "name": "Seungmin",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "N/A",
+    "birthYear": 1998,
+    "height": 178,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/z99zFvK/Seungmin-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618421849757,
+    "name": "Jaehyun",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "N/A",
+    "birthYear": 1999,
+    "height": 177,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/prKKkc7r/Jaehyun-Golden-Child.jpg"
+  },
+  {
+    "id": 1756618422948202,
+    "name": "Donghyun",
+    "group": [
+      "Golden Child"
+    ],
+    "agency": "N/A",
+    "birthYear": 1999,
+    "height": 172,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/KjK2RMwv/Donghyun-Golden-Child.jpg"
   }
 ]
