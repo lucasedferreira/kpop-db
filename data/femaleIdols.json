@@ -3209,5 +3209,116 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756613391697857,
+    "name": "Sihyeon",
+    "group": [
+      "EVERGLOW"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 1999,
+    "height": 170,
+    "role": [
+      "Leader",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175661339169719,
+    "name": "E:U",
+    "group": [
+      "EVERGLOW"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 1998,
+    "height": 161,
+    "role": [
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613391697852,
+    "name": "Onda",
+    "group": [
+      "EVERGLOW"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 2000,
+    "height": 166,
+    "role": [
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175661339169726,
+    "name": "Aisha",
+    "group": [
+      "EVERGLOW"
+    ],
+    "agency": "Yuehua",
+    "birthYear": 2000,
+    "height": 174,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613391697720,
+    "name": "Mia",
+    "group": [
+      "EVERGLOW"
+    ],
+    "agency": "N/A",
+    "birthYear": 2000,
+    "height": 163,
+    "role": [
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756613391697340,
+    "name": "Yiren",
+    "group": [
+      "EVERGLOW"
+    ],
+    "agency": "N/A",
+    "birthYear": 2000,
+    "height": 163,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Center",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
   }
 ]
