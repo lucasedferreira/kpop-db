@@ -2655,5 +2655,77 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/QZYB8gy/Seongjong-INFINITE.jpg"
+  },
+  {
+    "id": 175661789547411,
+    "name": "JinJin",
+    "group": [
+      "ASTRO"
+    ],
+    "agency": "Fantagio",
+    "birthYear": 1996,
+    "height": 169,
+    "role": [
+      "Leader",
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/1fb7mS70/Jin-Jin-ASTRO.jpg"
+  },
+  {
+    "id": 1756617895819353,
+    "name": "MJ",
+    "group": [
+      "ASTRO"
+    ],
+    "agency": "Fantagio",
+    "birthYear": 1994,
+    "height": 175,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/6cXT4QbQ/MJ-ASTRO.jpg"
+  },
+  {
+    "id": 1756617896149943,
+    "name": "Cha Eunwoo",
+    "group": [
+      "ASTRO"
+    ],
+    "agency": "Fantagio",
+    "birthYear": 1997,
+    "height": 183,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Q389tCv5/Cha-Eunwoo-ASTRO.jpg"
+  },
+  {
+    "id": 1756617896506564,
+    "name": "Sanha",
+    "group": [
+      "ASTRO"
+    ],
+    "agency": "Fantagio",
+    "birthYear": 2000,
+    "height": 185,
+    "role": [
+      "Maknae",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/FqXPmbvZ/Sanha-ASTRO.jpg"
   }
 ]
