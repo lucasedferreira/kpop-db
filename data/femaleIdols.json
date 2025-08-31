@@ -2988,5 +2988,98 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/v2N83JN/Youngeun-Kep1er.jpg"
+  },
+  {
+    "id": 1756612279836671,
+    "name": "Soyeon",
+    "group": [
+      "i-dle"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1998,
+    "height": 157,
+    "role": [
+      "Leader",
+      "Center",
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756612279837938,
+    "name": "Miyeon",
+    "group": [
+      "i-dle"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1997,
+    "height": 161,
+    "role": [
+      "Visual",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756612279837294,
+    "name": "Minnie",
+    "group": [
+      "i-dle"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1997,
+    "height": 167,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "TH"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756612279837570,
+    "name": "Yuqi",
+    "group": [
+      "i-dle"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1999,
+    "height": 163,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756612279837238,
+    "name": "Shuhua",
+    "group": [
+      "i-dle"
+    ],
+    "agency": "CUBE",
+    "birthYear": 2000,
+    "height": 161,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "TW"
+    ],
+    "photo": ""
   }
 ]
