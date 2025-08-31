@@ -1393,5 +1393,154 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/jkD2MjHm/Jungkook-BTS.jpg"
+  },
+  {
+    "id": 1756614117471947,
+    "name": "Hongjoong",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1998,
+    "height": 172,
+    "role": [
+      "Leader",
+      "Center",
+      "Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/5WTHhTmr/Hongjoong-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614118832848,
+    "name": "Seonghwa",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1998,
+    "height": 178,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/sGmm87p/Seonghwa-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614120111532,
+    "name": "Yunho",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1999,
+    "height": 186,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/GjK2PYQ/Yunho-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614121424678,
+    "name": "Yeosang",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1999,
+    "height": 175,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/z04yjvc/Yeosang-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614122520195,
+    "name": "San",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1999,
+    "height": 177,
+    "role": [
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/pjfmTVVg/San-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614123058791,
+    "name": "Mingi",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1999,
+    "height": 184,
+    "role": [
+      "Vocal",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/XxLWBvDz/Mingi-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614124494789,
+    "name": "Wooyoung",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 1999,
+    "height": 173,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/k2d2YXvh/Wooyoung-ATEEZ.jpg"
+  },
+  {
+    "id": 1756614126965163,
+    "name": "Jongho",
+    "group": [
+      "ATEEZ"
+    ],
+    "agency": "KQ",
+    "birthYear": 2000,
+    "height": 176,
+    "role": [
+      "Maknae",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/pBnF3nwD/Jongho-ATEEZ.jpg"
   }
 ]
