@@ -2440,5 +2440,111 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/3yP7824N/So-Jung-hwan-TREASURE.jpg"
+  },
+  {
+    "id": 1756617379720961,
+    "name": "Sungjin",
+    "group": [
+      "DAY6"
+    ],
+    "agency": "JYP",
+    "birthYear": 1993,
+    "height": 177,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/G4tgsYP0/Sungjin-DAY6.jpg"
+  },
+  {
+    "id": 1756617380040255,
+    "name": "Young K",
+    "group": [
+      "DAY6"
+    ],
+    "agency": "JYP",
+    "birthYear": 1993,
+    "height": 180,
+    "role": [
+      "Main Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/hFG8Pwm4/Young-K-DAY6.jpg"
+  },
+  {
+    "id": 1756617380471237,
+    "name": "Wonpil",
+    "group": [
+      "DAY6"
+    ],
+    "agency": "JYP",
+    "birthYear": 1994,
+    "height": 176,
+    "role": [
+      "Visual",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/QFHcVH0X/Wonpil-DAY6.jpg"
+  },
+  {
+    "id": 1756617380836808,
+    "name": "Dowoon",
+    "group": [
+      "DAY6"
+    ],
+    "agency": "JYP",
+    "birthYear": 1995,
+    "height": 177,
+    "role": [
+      "Maknae",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/d0kk5cdy/Dowoon-DAY6.jpg"
+  },
+  {
+    "id": 1756617381135742,
+    "name": "Jae",
+    "group": [
+      "DAY6"
+    ],
+    "agency": "N/A",
+    "birthYear": 1992,
+    "height": 183,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/yJkhMWV/Jae-DAY6.jpg"
+  },
+  {
+    "id": 1756617381493901,
+    "name": "Junhyeok",
+    "group": [
+      "DAY6"
+    ],
+    "agency": "N/A",
+    "birthYear": 1993,
+    "height": 175,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/W43xgCQ7/Junhyeok-DAY6.jpg"
   }
 ]
