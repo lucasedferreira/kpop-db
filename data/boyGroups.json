@@ -106,5 +106,14 @@
     "memberCount": 8,
     "status": "active",
     "photo": "https://i.ibb.co/wZR8GHJy/ATEEZ-logo.jpg"
+  },
+  {
+    "id": 1756614418150302,
+    "name": "Saja Boys",
+    "agency": "Netflix",
+    "debutYear": 2025,
+    "memberCount": 5,
+    "status": "inactive",
+    "photo": "https://i.ibb.co/HpdMGWgK/Saja-Boys-logo.jpg"
   }
 ]
