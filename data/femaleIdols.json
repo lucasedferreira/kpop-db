@@ -3320,5 +3320,78 @@
       "CN"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756668821060248,
+    "name": "Solar",
+    "group": [
+      "Mamamoo"
+    ],
+    "agency": "RBW Entertainment",
+    "birthYear": 1991,
+    "height": 160,
+    "role": [
+      "Leader",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/1YByGpr5/Solar-Mamamoo.jpg"
+  },
+  {
+    "id": 175666882178353,
+    "name": "Moonbyul",
+    "group": [
+      "Mamamoo"
+    ],
+    "agency": "RBW Entertainment",
+    "birthYear": 1992,
+    "height": 163,
+    "role": [
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/PvGCMhHv/Moonbyul-Mamamoo.jpg"
+  },
+  {
+    "id": 1756668822456424,
+    "name": "Wheein",
+    "group": [
+      "Mamamoo"
+    ],
+    "agency": "RBW Entertainment",
+    "birthYear": 1995,
+    "height": 159,
+    "role": [
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/BVqwZK2c/Wheein-Mamamoo.jpg"
+  },
+  {
+    "id": 1756668822828143,
+    "name": "Hwasa",
+    "group": [
+      "Mamamoo"
+    ],
+    "agency": "RBW Entertainment",
+    "birthYear": 1995,
+    "height": 159,
+    "role": [
+      "Maknae",
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/KzSJwZ6N/Hwasa-Mamamoo.jpg"
   }
 ]
