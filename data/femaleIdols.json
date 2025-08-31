@@ -3393,5 +3393,107 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/KzSJwZ6N/Hwasa-Mamamoo.jpg"
+  },
+  {
+    "id": 1756671022398402,
+    "name": "Victoria",
+    "group": [
+      "F(X)",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1987,
+    "height": 168,
+    "role": [
+      "Leader",
+      "Visual",
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/RpRw8bXX/Victoria-F-X.jpg"
+  },
+  {
+    "id": 1756671024607188,
+    "name": "Amber",
+    "group": [
+      "F(X)",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1992,
+    "height": 167,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "US",
+      "TW"
+    ],
+    "photo": "https://i.ibb.co/M5CNz6xF/Amber-F-X.jpg"
+  },
+  {
+    "id": 1756671025553610,
+    "name": "Luna",
+    "group": [
+      "F(X)",
+      "LOONA",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1993,
+    "height": 161,
+    "role": [
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/8426YVgB/Luna-F-X.jpg"
+  },
+  {
+    "id": 1756671026712905,
+    "name": "Krystal",
+    "group": [
+      "F(X)"
+    ],
+    "agency": "SM",
+    "birthYear": 1994,
+    "height": 165,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": "https://i.ibb.co/BHMnvZRz/Krystal-F-X.jpg"
+  },
+  {
+    "id": 1756671027914823,
+    "name": "Sulli",
+    "group": [
+      "F(X)",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1994,
+    "height": 172,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/cGcfCkS/Sulli-F-X.jpg"
   }
 ]
