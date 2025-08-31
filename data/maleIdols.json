@@ -3127,5 +3127,102 @@
       "US"
     ],
     "photo": "https://i.ibb.co/3501Rv5Y/Anton-RIIZE.jpg"
+  },
+  {
+    "id": 1756672758444626,
+    "name": "Onew",
+    "group": [
+      "Shinee",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1989,
+    "height": 177,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/6Rm0Kc7b/Onew-Shinee.jpg"
+  },
+  {
+    "id": 1756672759448215,
+    "name": "Key",
+    "group": [
+      "Shinee",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1991,
+    "height": 175,
+    "role": [
+      "Sub Vocal",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/dwj0Gksm/Key-Shinee.jpg"
+  },
+  {
+    "id": 1756672760243681,
+    "name": "Minho",
+    "group": [
+      "Shinee",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1991,
+    "height": 181,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/j9LNzxpk/Minho-Shinee.jpg"
+  },
+  {
+    "id": 1756672761251549,
+    "name": "Taemin",
+    "group": [
+      "Shinee",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1993,
+    "height": 175,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/fRLYLrF/Taemin-Shinee.jpg"
+  },
+  {
+    "id": 1756672762182788,
+    "name": "Jonghyun",
+    "group": [
+      "Shinee",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1990,
+    "height": 171,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/v6vdy7HS/Jonghyun-Shinee.jpg"
   }
 ]
