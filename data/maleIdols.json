@@ -1746,5 +1746,206 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/67vzBYyB/Chan-i-KON.jpg"
+  },
+  {
+    "id": 17566156530138,
+    "name": "Jisung",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1991,
+    "height": 175,
+    "role": [
+      "Leader",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/S4Ss28ZH/Jisung-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615655067476,
+    "name": "Sungwoon",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1994,
+    "height": 167,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/MyTr2MjR/Sungwoon-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615656677155,
+    "name": "Minhyun",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1995,
+    "height": 182,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/bgXR1ywQ/Minhyun-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615658084104,
+    "name": "Seongwoo",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1995,
+    "height": 179,
+    "role": [
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/PH8BfhX/Seongwoo-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615659722130,
+    "name": "Jaehwan",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1996,
+    "height": 175,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/mCp0wQ5F/Jaehwan-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615661310350,
+    "name": "Daniel",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1996,
+    "height": 180,
+    "role": [
+      "Center",
+      "Sub Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/9HDQgYYj/Daniel-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615663405607,
+    "name": "Jihoon",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1999,
+    "height": 173,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/pBVk6ZL7/Jihoon-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615665622669,
+    "name": "Woojin",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 1999,
+    "height": 176,
+    "role": [
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Z68PG3hg/Woojin-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615668032783,
+    "name": "Jinyoung",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 2000,
+    "height": 178,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/B5nNsfdV/Jinyoung-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615669484605,
+    "name": "Daehwi",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 2001,
+    "height": 172,
+    "role": [
+      "Lead Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gM2wQZjH/Daehwi-Wanna-One.jpg"
+  },
+  {
+    "id": 1756615671153544,
+    "name": "Kuanlin",
+    "group": [
+      "Wanna One"
+    ],
+    "agency": "YMC",
+    "birthYear": 2001,
+    "height": 183,
+    "role": [
+      "Maknae",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "TW"
+    ],
+    "photo": "https://i.ibb.co/N6FRWbNL/Kuanlin-Wanna-One.jpg"
   }
 ]
