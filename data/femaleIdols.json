@@ -3597,5 +3597,126 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/Y79jrvyQ/Yoonchae-KATSEYE.jpg"
+  },
+  {
+    "id": 175668442564421,
+    "name": "Duna",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 164,
+    "role": [
+      "Leader",
+      "N/A"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/wN2w0fjp/Duna-CSR.jpg"
+  },
+  {
+    "id": 1756684426029331,
+    "name": "Geumhee",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 164,
+    "role": [
+      "N/A"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/ds3WxcpV/Geumhee-CSR.jpg"
+  },
+  {
+    "id": 1756684426371731,
+    "name": "Sihyeon",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 159,
+    "role": [
+      "N/A"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/BV1KWsKM/Sihyeon-CSR.jpg"
+  },
+  {
+    "id": 1756684426721566,
+    "name": "Seoyeon",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 161,
+    "role": [
+      "N/A"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Mxw4NnMX/Seoyeon-CSR.jpg"
+  },
+  {
+    "id": 1756684427069432,
+    "name": "Yuna",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 159,
+    "role": [
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/dsj7NGCT/Yuna-CSR.jpg"
+  },
+  {
+    "id": 1756684427445560,
+    "name": "Sua",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 163,
+    "role": [
+      "N/A"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/rKt9NQCd/Sua-CSR.jpg"
+  },
+  {
+    "id": 1756684427846817,
+    "name": "Yeham",
+    "group": [
+      "CSR"
+    ],
+    "agency": "RBW",
+    "birthYear": 2005,
+    "height": 161,
+    "role": [
+      "Maknae",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/wNN1Q0XD/Yeham-CSR.jpg"
   }
 ]
