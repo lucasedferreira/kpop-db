@@ -3021,5 +3021,111 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/chMs6Vqc/Han-Yu-Jin-ZEROBASEONE.jpg"
+  },
+  {
+    "id": 1756619162193461,
+    "name": "Shotaro",
+    "group": [
+      "RIIZE"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 178,
+    "role": [
+      "Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/Kpy9GFx3/Shotaro-RIIZE.jpg"
+  },
+  {
+    "id": 1756619162807381,
+    "name": "Eunseok",
+    "group": [
+      "RIIZE"
+    ],
+    "agency": "SM",
+    "birthYear": 2001,
+    "height": 180,
+    "role": [
+      "Visual"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/JR4m94Fv/Eunseok-RIIZE.jpg"
+  },
+  {
+    "id": 1756619163109644,
+    "name": "Sungchan",
+    "group": [
+      "RIIZE"
+    ],
+    "agency": "SM",
+    "birthYear": 2001,
+    "height": 185,
+    "role": [
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/hR6Xnfnd/Sungchan-RIIZE.jpg"
+  },
+  {
+    "id": 1756619163451970,
+    "name": "Wonbin",
+    "group": [
+      "RIIZE"
+    ],
+    "agency": "SM",
+    "birthYear": 2002,
+    "height": 176,
+    "role": [
+      "Visual",
+      "Center",
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/hxNgbzDY/Wonbin-RIIZE.jpg"
+  },
+  {
+    "id": 1756619163760342,
+    "name": "Sohee",
+    "group": [
+      "RIIZE"
+    ],
+    "agency": "SM",
+    "birthYear": 2003,
+    "height": 176,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/bjBs3Ymt/Sohee-RIIZE.jpg"
+  },
+  {
+    "id": 1756619164125275,
+    "name": "Anton",
+    "group": [
+      "RIIZE"
+    ],
+    "agency": "SM",
+    "birthYear": 2004,
+    "height": 184,
+    "role": [
+      "Maknae",
+      "Visual"
+    ],
+    "nationality": [
+      "US"
+    ],
+    "photo": "https://i.ibb.co/3501Rv5Y/Anton-RIIZE.jpg"
   }
 ]
