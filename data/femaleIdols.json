@@ -3598,33 +3598,5 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/Y79jrvyQ/Yoonchae-KATSEYE.jpg"
-  },
-  {
-    "id": 1756684247796503,
-    "name": "teste",
-    "group": [
-      "LOONA",
-      "ARTMS",
-      "Loossemble",
-      "SOLO"
-    ],
-    "agency": ":c",
-    "birthYear": 123,
-    "height": 123,
-    "role": [
-      "N/A"
-    ],
-    "nationality": [
-      "VN",
-      "BR",
-      "PH",
-      "ID",
-      "CH",
-      "AR",
-      "SN",
-      "BE",
-      "IN"
-    ],
-    "photo": ""
   }
 ]
