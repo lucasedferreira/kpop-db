@@ -1947,5 +1947,167 @@
       "TW"
     ],
     "photo": "https://i.ibb.co/N6FRWbNL/Kuanlin-Wanna-One.jpg"
+  },
+  {
+    "id": 1756616127407299,
+    "name": "Hui",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1993,
+    "height": 171,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/27x2W4hD/Hui-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616128074725,
+    "name": "Jinho",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1992,
+    "height": 168,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/wN7fT7w2/Jinho-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616128392597,
+    "name": "Hongseok",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1994,
+    "height": 178,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/CTZbcKz/Hongseok-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616128762911,
+    "name": "Shinwon",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1995,
+    "height": 184,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/SW2DP9Z/Shinwon-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616129343748,
+    "name": "Yeo One",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1996,
+    "height": 179,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/hFvfvCy9/Yeo-One-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616129648132,
+    "name": "Yanan",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1996,
+    "height": 187,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/zVn2R3vQ/Yanan-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616129976375,
+    "name": "Yuto",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1998,
+    "height": 185,
+    "role": [
+      "Sub Vocal",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/CK9Wpsyv/Yuto-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616130304758,
+    "name": "Kino",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1998,
+    "height": 177,
+    "role": [
+      "Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/9HgRyRtP/Kino-PENTAGON.jpg"
+  },
+  {
+    "id": 1756616130591711,
+    "name": "Wooseok",
+    "group": [
+      "PENTAGON"
+    ],
+    "agency": "CUBE",
+    "birthYear": 1998,
+    "height": 191,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/dwWw9Gk5/Wooseok-PENTAGON.jpg"
   }
 ]
