@@ -1637,5 +1637,114 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/G3kDPpmb/Baby-Saja-Boys.jpg"
+  },
+  {
+    "id": 1756615177059763,
+    "name": "Jay",
+    "group": [
+      "iKON"
+    ],
+    "agency": "143",
+    "birthYear": 1994,
+    "height": 165,
+    "role": [
+      "Leader",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/xSVSjQhn/Jay-iKON.jpg"
+  },
+  {
+    "id": 175661517872129,
+    "name": "Song",
+    "group": [
+      "iKON"
+    ],
+    "agency": "143",
+    "birthYear": 1995,
+    "height": 175,
+    "role": [
+      "Visual",
+      "Center",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Kpg19P93/Song-i-KON.jpg"
+  },
+  {
+    "id": 1756615181000308,
+    "name": "Bobby",
+    "group": [
+      "iKON"
+    ],
+    "agency": "143",
+    "birthYear": 1995,
+    "height": 175,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/cc9wZbFF/Bobby-i-KON.jpg"
+  },
+  {
+    "id": 175661518299484,
+    "name": "DK",
+    "group": [
+      "iKON"
+    ],
+    "agency": "143",
+    "birthYear": 1997,
+    "height": 173,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/1JnWVGR7/DK-iKON.jpg"
+  },
+  {
+    "id": 1756615184291923,
+    "name": "Ju-ne",
+    "group": [
+      "iKON"
+    ],
+    "agency": "143",
+    "birthYear": 1997,
+    "height": 183,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/SXqZSKZG/Ju-ne-i-KON.jpg"
+  },
+  {
+    "id": 1756615185656559,
+    "name": "Chan",
+    "group": [
+      "iKON"
+    ],
+    "agency": "143",
+    "birthYear": 1998,
+    "height": 181,
+    "role": [
+      "Maknae",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/67vzBYyB/Chan-i-KON.jpg"
   }
 ]
