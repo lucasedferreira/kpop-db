@@ -3900,5 +3900,116 @@
       "US"
     ],
     "photo": "https://i.ibb.co/B5JCjzQw/Ella-MEOVV.jpg"
+  },
+  {
+    "id": 1756686028677337,
+    "name": "Sungsun",
+    "group": [
+      "TRI.BE"
+    ],
+    "agency": "TR",
+    "birthYear": 1997,
+    "height": 160,
+    "role": [
+      "Leader",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/DgmKdSqt/Sungsun-TRI.jpg"
+  },
+  {
+    "id": 1756686029570496,
+    "name": "Kelly",
+    "group": [
+      "TRI.BE"
+    ],
+    "agency": "TR",
+    "birthYear": 2002,
+    "height": 169,
+    "role": [
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "TW"
+    ],
+    "photo": "https://i.ibb.co/DHnydFyN/Kelly-TRI.jpg"
+  },
+  {
+    "id": 1756686031869448,
+    "name": "Hyunbin",
+    "group": [
+      "TRI.BE"
+    ],
+    "agency": "TR",
+    "birthYear": 2004,
+    "height": 164,
+    "role": [
+      "Center",
+      "Lead Vocal",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/S4j8fyJP/Hyunbin-TRI.jpg"
+  },
+  {
+    "id": 1756686033581608,
+    "name": "Jia",
+    "group": [
+      "TRI.BE"
+    ],
+    "agency": "TR",
+    "birthYear": 2005,
+    "height": 161,
+    "role": [
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "TW"
+    ],
+    "photo": "https://i.ibb.co/dsDgCLrS/Jia-TRI.jpg"
+  },
+  {
+    "id": 1756686034817530,
+    "name": "Soeun",
+    "group": [
+      "TRI.BE"
+    ],
+    "agency": "TR",
+    "birthYear": 2005,
+    "height": 162,
+    "role": [
+      "Lead Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/zhY9pWZP/Soeun-TRI.jpg"
+  },
+  {
+    "id": 1756686035649826,
+    "name": "Mire",
+    "group": [
+      "TRI.BE"
+    ],
+    "agency": "TR",
+    "birthYear": 2006,
+    "height": 168,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/8gnGCQQY/Mire-TRI.jpg"
   }
 ]
