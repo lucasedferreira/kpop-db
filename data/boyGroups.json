@@ -241,5 +241,14 @@
     "memberCount": 8,
     "status": "active",
     "photo": "https://i.ibb.co/TDDZHcQC/NCT-127-logo-1756688344814.jpg"
+  },
+  {
+    "id": 1756700687826429,
+    "name": "teste",
+    "agency": "123",
+    "debutYear": 123,
+    "memberCount": 123,
+    "status": "inactive",
+    "photo": ""
   }
 ]
