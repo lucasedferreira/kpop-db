@@ -3224,5 +3224,160 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/v6vdy7HS/Jonghyun-Shinee.jpg"
+  },
+  {
+    "id": 175670184894529,
+    "name": "Taeyong",
+    "group": [
+      "NCT 127",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1995,
+    "height": 175,
+    "role": [
+      "Leader",
+      "Visual",
+      "Center",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/8ntGMY8D/Taeyong-NCT-127.jpg"
+  },
+  {
+    "id": 1756701849641203,
+    "name": "Johnny",
+    "group": [
+      "NCT 127"
+    ],
+    "agency": "SM",
+    "birthYear": 1995,
+    "height": 185,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "US"
+    ],
+    "photo": "https://i.ibb.co/4n7501Hj/Johnny-NCT-127.jpg"
+  },
+  {
+    "id": 1756701850032759,
+    "name": "Yuta",
+    "group": [
+      "NCT 127",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1995,
+    "height": 176,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/5XY9nBQx/Yuta-NCT-127.jpg"
+  },
+  {
+    "id": 1756701850499790,
+    "name": "Doyoung",
+    "group": [
+      "NCT 127",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1996,
+    "height": 178,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/Xf2j7hz2/Doyoung-NCT-127.jpg"
+  },
+  {
+    "id": 1756701850974896,
+    "name": "Jaehyun",
+    "group": [
+      "NCT 127",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1997,
+    "height": 180,
+    "role": [
+      "Visual",
+      "Main Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/hF4ZL8Fq/Jaehyun-NCT-127.jpg"
+  },
+  {
+    "id": 1756701851463815,
+    "name": "Jungwoo",
+    "group": [
+      "NCT 127"
+    ],
+    "agency": "SM",
+    "birthYear": 1998,
+    "height": 180,
+    "role": [
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/p64nQTQr/Jungwoo-NCT-127.jpg"
+  },
+  {
+    "id": 1756701851964936,
+    "name": "Mark",
+    "group": [
+      "NCT 127",
+      "SOLO"
+    ],
+    "agency": "SM",
+    "birthYear": 1999,
+    "height": 176,
+    "role": [
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "CA"
+    ],
+    "photo": "https://i.ibb.co/p6VpXf1G/Mark-NCT-127.jpg"
+  },
+  {
+    "id": 1756701852356372,
+    "name": "Haechan",
+    "group": [
+      "NCT 127"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 174,
+    "role": [
+      "Maknae",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4wx9pHQH/Haechan-NCT-127.jpg"
   }
 ]
