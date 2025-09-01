@@ -241,5 +241,14 @@
     "memberCount": 8,
     "status": "active",
     "photo": "https://i.ibb.co/TDDZHcQC/NCT-127-logo-1756688344814.jpg"
+  },
+  {
+    "id": 1756702051518306,
+    "name": "SuperM",
+    "agency": "SM",
+    "debutYear": 2019,
+    "memberCount": 7,
+    "status": "inactive",
+    "photo": "https://i.ibb.co/S4fvGp9y/Super-M-logo.jpg"
   }
 ]
