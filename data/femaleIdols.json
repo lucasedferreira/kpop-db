@@ -3718,5 +3718,95 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/wNN1Q0XD/Yeham-CSR.jpg"
+  },
+  {
+    "id": 1756685381492668,
+    "name": "Jiyu",
+    "group": [
+      "KiiiKiii"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2006,
+    "height": 158,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/1t216tJn/Jiyu-Kiii-Kiii.jpg"
+  },
+  {
+    "id": 1756685381808258,
+    "name": "Leesol",
+    "group": [
+      "KiiiKiii"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2005,
+    "height": 166,
+    "role": [
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gbxtWC7T/Leesol-Kiii-Kiii.jpg"
+  },
+  {
+    "id": 1756685382130388,
+    "name": "Sui",
+    "group": [
+      "KiiiKiii"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2006,
+    "height": 169,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/1t3wRsNv/Sui-Kiii-Kiii.jpg"
+  },
+  {
+    "id": 1756685382461933,
+    "name": "Haum",
+    "group": [
+      "KiiiKiii"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2006,
+    "height": 163,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/zWDNvmVN/Haum-Kiii-Kiii.jpg"
+  },
+  {
+    "id": 1756685382833138,
+    "name": "Kya",
+    "group": [
+      "KiiiKiii"
+    ],
+    "agency": "STARSHIP",
+    "birthYear": 2010,
+    "height": 168,
+    "role": [
+      "Maknae",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/WNRW8wYH/Kya-Kiii-Kiii.jpg"
   }
 ]
