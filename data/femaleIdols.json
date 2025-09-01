@@ -4301,5 +4301,116 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/gLKHy393/Seowon-UNIS.jpg"
+  },
+  {
+    "id": 1756688459160380,
+    "name": "Chaesol",
+    "group": [
+      "cignature",
+      "GOOD DAY"
+    ],
+    "agency": "N/A",
+    "birthYear": 1998,
+    "height": 170,
+    "role": [
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/tMkMnznd/Chaesol-cignature.jpg"
+  },
+  {
+    "id": 175668845999318,
+    "name": "Jeewon",
+    "group": [
+      "cignature",
+      "GOOD DAY"
+    ],
+    "agency": "N/A",
+    "birthYear": 1999,
+    "height": 166,
+    "role": [
+      "Center",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/5W1CdPfD/Jeewon-cignature.jpg"
+  },
+  {
+    "id": 1756688461539162,
+    "name": "Seline",
+    "group": [
+      "cignature"
+    ],
+    "agency": "N/A",
+    "birthYear": 2000,
+    "height": 169,
+    "role": [
+      "Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/8DPGfBZq/Seline-cignature.jpg"
+  },
+  {
+    "id": 1756688463450607,
+    "name": "Semi",
+    "group": [
+      "cignature"
+    ],
+    "agency": "N/A",
+    "birthYear": 2002,
+    "height": 166,
+    "role": [
+      "Main Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/sJmBv53b/Semi-cignature.jpg"
+  },
+  {
+    "id": 1756688464936919,
+    "name": "Dohee",
+    "group": [
+      "cignature"
+    ],
+    "agency": "N/A",
+    "birthYear": 2002,
+    "height": 160,
+    "role": [
+      "Maknae",
+      "Vocal",
+      "Rap",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/fVTrtt3J/Dohee-cignature.jpg"
+  },
+  {
+    "id": 1756688466303986,
+    "name": "Chloe",
+    "group": [
+      "cignature"
+    ],
+    "agency": "J9",
+    "birthYear": 2001,
+    "height": 165,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/d40PFYMF/Chloe-cignature.jpg"
   }
 ]
