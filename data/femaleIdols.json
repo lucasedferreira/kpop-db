@@ -3808,5 +3808,97 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/WNRW8wYH/Kya-Kiii-Kiii.jpg"
+  },
+  {
+    "id": 1756685681155711,
+    "name": "Sooin",
+    "group": [
+      "MEOVV"
+    ],
+    "agency": "THEBLACKLABEL",
+    "birthYear": 2005,
+    "height": 172,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/prkpMC5b/Sooin-MEOVV.jpg"
+  },
+  {
+    "id": 1756685682180751,
+    "name": "Gawon",
+    "group": [
+      "MEOVV"
+    ],
+    "agency": "THEBLACKLABEL",
+    "birthYear": 2005,
+    "height": 173,
+    "role": [
+      "Main Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": "https://i.ibb.co/BV27KvGr/Gawon-MEOVV.jpg"
+  },
+  {
+    "id": 1756685683175895,
+    "name": "Anna",
+    "group": [
+      "MEOVV"
+    ],
+    "agency": "THEBLACKLABEL",
+    "birthYear": 2005,
+    "height": 164,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/zTb2HW7p/Anna-MEOVV.jpg"
+  },
+  {
+    "id": 1756685684814736,
+    "name": "Narin",
+    "group": [
+      "MEOVV"
+    ],
+    "agency": "THEBLACKLABEL",
+    "birthYear": 2007,
+    "height": 166,
+    "role": [
+      "Main Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/qFDSqFcY/Narin-MEOVV.jpg"
+  },
+  {
+    "id": 1756685686001176,
+    "name": "Ella",
+    "group": [
+      "MEOVV"
+    ],
+    "agency": "THEBLACKLABEL",
+    "birthYear": 2008,
+    "height": 168,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "US"
+    ],
+    "photo": "https://i.ibb.co/B5JCjzQw/Ella-MEOVV.jpg"
   }
 ]
