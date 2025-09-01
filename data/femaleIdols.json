@@ -4011,5 +4011,98 @@
       "JP"
     ],
     "photo": "https://i.ibb.co/8gnGCQQY/Mire-TRI.jpg"
+  },
+  {
+    "id": 175668605136152,
+    "name": "Keena",
+    "group": [
+      "Fifty Fifty"
+    ],
+    "agency": "ATTRAKT",
+    "birthYear": 2002,
+    "height": 164,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/jvKfp19V/Keena-Fifty-Fifty.jpg"
+  },
+  {
+    "id": 1756686052733368,
+    "name": "Chanelle Moon",
+    "group": [
+      "Fifty Fifty"
+    ],
+    "agency": "ATTRAKT",
+    "birthYear": 2003,
+    "height": 165,
+    "role": [
+      "Main Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR",
+      "US"
+    ],
+    "photo": "https://i.ibb.co/jk7Q9zc6/Chanelle-Moon-Fifty-Fifty.jpg"
+  },
+  {
+    "id": 1756686054020913,
+    "name": "Yewon",
+    "group": [
+      "Fifty Fifty"
+    ],
+    "agency": "ATTRAKT",
+    "birthYear": 2005,
+    "height": 158,
+    "role": [
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/3yF3PmBX/Yewon-Fifty-Fifty.jpg"
+  },
+  {
+    "id": 1756686055364645,
+    "name": "Hana",
+    "group": [
+      "Fifty Fifty"
+    ],
+    "agency": "ATTRAKT",
+    "birthYear": 2006,
+    "height": 166,
+    "role": [
+      "Main Vocal",
+      "Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/yBWk8ws1/Hana-Fifty-Fifty.jpg"
+  },
+  {
+    "id": 1756686056183410,
+    "name": "Athena",
+    "group": [
+      "Fifty Fifty"
+    ],
+    "agency": "ATTRAKT",
+    "birthYear": 2007,
+    "height": 163,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR",
+      "TW",
+      "CH"
+    ],
+    "photo": "https://i.ibb.co/3mfmLZgh/Athena-Fifty-Fifty.jpg"
   }
 ]
