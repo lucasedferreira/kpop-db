@@ -4104,5 +4104,57 @@
       "CH"
     ],
     "photo": "https://i.ibb.co/3mfmLZgh/Athena-Fifty-Fifty.jpg"
+  },
+  {
+    "id": 1756686245320694,
+    "name": "Saena",
+    "group": [
+      "ablume"
+    ],
+    "agency": "MASSIVE",
+    "birthYear": 2004,
+    "height": 160,
+    "role": [
+      "Leader"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gMtLGYY8/Saena-ablume.jpg"
+  },
+  {
+    "id": 1756686245656293,
+    "name": "Sio",
+    "group": [
+      "ablume"
+    ],
+    "agency": "MASSIVE",
+    "birthYear": 2004,
+    "height": 165,
+    "role": [
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/MDDLDvhz/Sio-ablume.jpg"
+  },
+  {
+    "id": 1756686245957938,
+    "name": "Aran",
+    "group": [
+      "ablume"
+    ],
+    "agency": "MASSIVE",
+    "birthYear": 2004,
+    "height": 162,
+    "role": [
+      "Maknae",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/C5128Nc9/Aran-ablume.jpg"
   }
 ]
