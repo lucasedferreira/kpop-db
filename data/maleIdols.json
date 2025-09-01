@@ -3382,5 +3382,141 @@
       "CA"
     ],
     "photo": "https://i.ibb.co/p6VpXf1G/Mark-NCT-127.jpg"
+  },
+  {
+    "id": 1756769728194918,
+    "name": "Mark",
+    "group": [
+      "NCT DREAM",
+      "SOLO",
+      "SuperM"
+    ],
+    "agency": "SM",
+    "birthYear": 1999,
+    "height": 176,
+    "role": [
+      "Leader",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "CA"
+    ],
+    "photo": "https://i.ibb.co/p6VpXf1G/Mark-NCT-127.jpg"
+  },
+  {
+    "id": 1756769729516100,
+    "name": "Renjun",
+    "group": [
+      "NCT DREAM"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 171,
+    "role": [
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/DDT6wsjG/Renjun-NCT-DREAM.jpg"
+  },
+  {
+    "id": 1756769730515454,
+    "name": "Jeno",
+    "group": [
+      "NCT DREAM"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 176,
+    "role": [
+      "Visual",
+      "Sub Vocal",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/JZmLWW4/Jeno-NCT-DREAM.jpg"
+  },
+  {
+    "id": 1756769731431125,
+    "name": "Haechan",
+    "group": [
+      "NCT DREAM",
+      "NCT 127"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 174,
+    "role": [
+      "Maknae",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/4wx9pHQH/Haechan-NCT-127.jpg"
+  },
+  {
+    "id": 1756769732428496,
+    "name": "Jaemin",
+    "group": [
+      "NCT DREAM"
+    ],
+    "agency": "SM",
+    "birthYear": 2000,
+    "height": 177,
+    "role": [
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Sub Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gb8PdP16/Jaemin-NCT-DREAM.jpg"
+  },
+  {
+    "id": 1756769733139879,
+    "name": "Chenle",
+    "group": [
+      "NCT DREAM"
+    ],
+    "agency": "SM",
+    "birthYear": 2001,
+    "height": 176,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/b5S7X43L/Chenle-NCT-DREAM.jpg"
+  },
+  {
+    "id": 1756769733787172,
+    "name": "Jisung",
+    "group": [
+      "NCT DREAM"
+    ],
+    "agency": "SM",
+    "birthYear": 2002,
+    "height": 180,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/s9C78VbF/Jisung-NCT-DREAM.jpg"
   }
 ]
