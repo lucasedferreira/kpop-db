@@ -446,5 +446,14 @@
     "memberCount": 5,
     "status": "active",
     "photo": "https://i.ibb.co/93YBNdWV/Fifty-Fifty-logo.jpg"
+  },
+  {
+    "id": 1756686516044964,
+    "name": "cignature",
+    "agency": "J9",
+    "debutYear": 2020,
+    "memberCount": 7,
+    "status": "inactive",
+    "photo": "https://i.ibb.co/TDDTt3Tm/cignature-logo.jpg"
   }
 ]
