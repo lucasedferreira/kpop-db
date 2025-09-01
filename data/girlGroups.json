@@ -464,5 +464,14 @@
     "memberCount": 10,
     "status": "inactive",
     "photo": "https://i.ibb.co/5N7gNzG/GOOD-DAY-logo.jpg"
+  },
+  {
+    "id": 1756686608693934,
+    "name": "UNIS",
+    "agency": "F&F",
+    "debutYear": 2024,
+    "memberCount": 8,
+    "status": "active",
+    "photo": "https://i.ibb.co/N6FyZvDz/UNIS-logo.jpg"
   }
 ]
