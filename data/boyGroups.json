@@ -250,5 +250,14 @@
     "memberCount": 7,
     "status": "inactive",
     "photo": "https://i.ibb.co/S4fvGp9y/Super-M-logo.jpg"
+  },
+  {
+    "id": 1756766294523674,
+    "name": "NCT DREAM",
+    "agency": "SM",
+    "debutYear": 2016,
+    "memberCount": 7,
+    "status": "active",
+    "photo": "https://i.ibb.co/0j0wgNfB/NCT-DREAM-logo.jpg"
   }
 ]
