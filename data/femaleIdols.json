@@ -4412,5 +4412,136 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/d40PFYMF/Chloe-cignature.jpg"
+  },
+  {
+    "id": 1756692183252785,
+    "name": "Haeyoon",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 1996,
+    "height": 157,
+    "role": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/W47kdcr0/Haeyoon-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756692183809343,
+    "name": "Yuju",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 1997,
+    "height": 166,
+    "role": [
+      "Visual",
+      "Lead Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/DsQhFwg/Yuju-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756692184100276,
+    "name": "Bora",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 1999,
+    "height": 159,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/HfZbGtCC/Bora-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756692184430234,
+    "name": "Jiwon",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 2000,
+    "height": 164,
+    "role": [
+      "Visual",
+      "Center",
+      "Lead Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/V0WKpNJB/Jiwon-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756692184750358,
+    "name": "Remi",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 2001,
+    "height": 164,
+    "role": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/Ng4WDB0y/Remi-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756692185084881,
+    "name": "Chaerin",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 2002,
+    "height": 167,
+    "role": [
+      "Vocal",
+      "Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/35T6BWmN/Chaerin-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756692185435882,
+    "name": "May",
+    "group": [
+      "Cherry Bullet"
+    ],
+    "agency": "FNC",
+    "birthYear": 2004,
+    "height": 173,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/QjDf2FPN/May-Cherry-Bullet.jpg"
   }
 ]
