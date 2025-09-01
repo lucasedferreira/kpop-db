@@ -4156,5 +4156,150 @@
       "KR"
     ],
     "photo": "https://i.ibb.co/C5128Nc9/Aran-ablume.jpg"
+  },
+  {
+    "id": 1756687382409768,
+    "name": "Hyeonju",
+    "group": [
+      "UNIS",
+      "cignature",
+      "GOOD DAY"
+    ],
+    "agency": "J9",
+    "birthYear": 2001,
+    "height": 161,
+    "role": [
+      "Leader",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/twsXnyhx/Hyeonju-UNIS.jpg"
+  },
+  {
+    "id": 1756687382790154,
+    "name": "Nana",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "FNC",
+    "birthYear": 2007,
+    "height": 165,
+    "role": [
+      "Center",
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/dsMW5V2C/Nana-UNIS.jpg"
+  },
+  {
+    "id": 1756687383146625,
+    "name": "Gehlee",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "N/A",
+    "birthYear": 2007,
+    "height": 167,
+    "role": [
+      "Visual",
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "PH"
+    ],
+    "photo": "https://i.ibb.co/jPTvj1Vy/Gehlee-UNIS.jpg"
+  },
+  {
+    "id": 1756687383599772,
+    "name": "Kotoko",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "N/A",
+    "birthYear": 2007,
+    "height": 157,
+    "role": [
+      "Sub Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/dwzqtymr/Kotoko-UNIS.jpg"
+  },
+  {
+    "id": 1756687383934231,
+    "name": "Yunha",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "F&F",
+    "birthYear": 2009,
+    "height": 161,
+    "role": [
+      "Lead Vocal",
+      "Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/pvRTJ2Kh/Yunha-UNIS.jpg"
+  },
+  {
+    "id": 1756687384342211,
+    "name": "Elisia",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "N/A",
+    "birthYear": 2009,
+    "height": 164,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "PH"
+    ],
+    "photo": "https://i.ibb.co/TDGCsGVy/Elisia-UNIS.jpg"
+  },
+  {
+    "id": 1756687384686377,
+    "name": "Yoona",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "STAR ON",
+    "birthYear": 2009,
+    "height": 160,
+    "role": [
+      "Main Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/7tBBJ70n/Yoona-UNIS.jpg"
+  },
+  {
+    "id": 1756687385067140,
+    "name": "Seowon",
+    "group": [
+      "UNIS"
+    ],
+    "agency": "F&F",
+    "birthYear": 2011,
+    "height": 158,
+    "role": [
+      "Maknae",
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/gLKHy393/Seowon-UNIS.jpg"
   }
 ]
