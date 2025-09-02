@@ -4543,5 +4543,133 @@
       "JP"
     ],
     "photo": "https://i.ibb.co/QjDf2FPN/May-Cherry-Bullet.jpg"
+  },
+  {
+    "id": 1756778608732992,
+    "name": "Jurin",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 158,
+    "role": [
+      "Leader",
+      "Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/J1zJL4W/Jurin-XG.jpg"
+  },
+  {
+    "id": 1756778609289369,
+    "name": "Chisa",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 157,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/VPCsNBB/Chisa-XG.jpg"
+  },
+  {
+    "id": 1756778609675149,
+    "name": "Hinata",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 157,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR",
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/RGbKbG8j/Hinata-XG.jpg"
+  },
+  {
+    "id": 1756778610010326,
+    "name": "Harvey",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2002,
+    "height": 160,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP",
+      "AU"
+    ],
+    "photo": "https://i.ibb.co/Lz6gKZFw/Harvey-XG.jpg"
+  },
+  {
+    "id": 175677861059157,
+    "name": "Juria",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2004,
+    "height": 164,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/N2jwTJGg/Juria-XG.jpg"
+  },
+  {
+    "id": 1756778610940311,
+    "name": "Maya",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2005,
+    "height": 156,
+    "role": [
+      "Lead Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/N2DGgz0g/Maya-XG.jpg"
+  },
+  {
+    "id": 1756778611300162,
+    "name": "Cocona",
+    "group": [
+      "XG"
+    ],
+    "agency": "XGALX",
+    "birthYear": 2005,
+    "height": 159,
+    "role": [
+      "Maknae",
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/QF2H8gPL/Cocona-XG.jpg"
   }
 ]
