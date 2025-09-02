@@ -3593,5 +3593,110 @@
       "TW"
     ],
     "photo": "https://i.ibb.co/ZztYJyZF/Yangyang-Way-V.jpg"
+  },
+  {
+    "id": 1756773115998369,
+    "name": "Sion",
+    "group": [
+      "NCT WISH"
+    ],
+    "agency": "SM",
+    "birthYear": 2002,
+    "height": 178,
+    "role": [
+      "Leader",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/13LQg3y/Sion-NCT-WISH.jpg"
+  },
+  {
+    "id": 1756773116524326,
+    "name": "Riku",
+    "group": [
+      "NCT WISH"
+    ],
+    "agency": "SM",
+    "birthYear": 2003,
+    "height": 174,
+    "role": [
+      "Main Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/Vc9HVvmM/Riku-NCT-WISH.jpg"
+  },
+  {
+    "id": 1756773117026210,
+    "name": "Yushi",
+    "group": [
+      "NCT WISH"
+    ],
+    "agency": "SM",
+    "birthYear": 2004,
+    "height": 173,
+    "role": [
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/d4MRDBzy/Yushi-NCT-WISH.jpg"
+  },
+  {
+    "id": 1756773117508652,
+    "name": "Jaehee",
+    "group": [
+      "NCT WISH"
+    ],
+    "agency": "SM",
+    "birthYear": 2005,
+    "height": 179,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": "https://i.ibb.co/992MhsdF/Jaehee-NCT-WISH.jpg"
+  },
+  {
+    "id": 1756773118105550,
+    "name": "Ryo",
+    "group": [
+      "NCT WISH"
+    ],
+    "agency": "SM",
+    "birthYear": 2007,
+    "height": 165,
+    "role": [
+      "Sub Vocal"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/B2xTQgrM/Ryo-NCT-WISH.jpg"
+  },
+  {
+    "id": 1756773118943529,
+    "name": "Sakuya",
+    "group": [
+      "NCT WISH"
+    ],
+    "agency": "SM",
+    "birthYear": 2007,
+    "height": 171,
+    "role": [
+      "Maknae",
+      "Sub Vocal",
+      "Lead Rap"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": "https://i.ibb.co/twVBkNR0/Sakuya-NCT-WISH.jpg"
   }
 ]
