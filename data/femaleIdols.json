@@ -5104,5 +5104,132 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 175699568058816,
+    "name": "Shuie",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2004,
+    "height": 170,
+    "role": [
+      "Rap"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756995680588317,
+    "name": "Mei",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2005,
+    "height": 160,
+    "role": [
+      "Sub Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "JP"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175699568058810,
+    "name": "Kanny",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2005,
+    "height": 165,
+    "role": [
+      "Sub Vocal",
+      "Main Rap"
+    ],
+    "nationality": [
+      "TH"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756995680588245,
+    "name": "Soha",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2006,
+    "height": 169,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175699568058851,
+    "name": "Dohee",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2006,
+    "height": 164,
+    "role": [
+      "Center",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756995680588792,
+    "name": "Junhwi",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2007,
+    "height": 167,
+    "role": [
+      "Visual",
+      "Lead Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756995680588159,
+    "name": "Seungjoo",
+    "group": [
+      "Say My Name"
+    ],
+    "agency": "iNKODE",
+    "birthYear": 2010,
+    "height": 163,
+    "role": [
+      "Maknae",
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
