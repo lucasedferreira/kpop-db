@@ -4934,5 +4934,175 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756990783596265,
+    "name": "Hayoung",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "ASND",
+    "birthYear": 1997,
+    "height": 163,
+    "role": [
+      "Leader",
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783596835,
+    "name": "Jiwon",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "ASND",
+    "birthYear": 1998,
+    "height": 157,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783596493,
+    "name": "Chaeyoung",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "ASND",
+    "birthYear": 2000,
+    "height": 168,
+    "role": [
+      "Vocal",
+      "Lead Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783597721,
+    "name": "Nagyung",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "ASND",
+    "birthYear": 2000,
+    "height": 160,
+    "role": [
+      "Visual",
+      "Vocal",
+      "Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783597238,
+    "name": "Jiheon",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "ASND",
+    "birthYear": 2003,
+    "height": 166,
+    "role": [
+      "Maknae",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783597899,
+    "name": "Saerom",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "N/A",
+    "birthYear": 1997,
+    "height": 163,
+    "role": [
+      "Leader",
+      "Visual",
+      "Vocal",
+      "Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783597549,
+    "name": "Gyuri",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "Just",
+    "birthYear": 1997,
+    "height": 168,
+    "role": [
+      "Visual",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783597941,
+    "name": "Jisun",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "N/A",
+    "birthYear": 1998,
+    "height": 158,
+    "role": [
+      "Center",
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756990783597273,
+    "name": "Seoyeon",
+    "group": [
+      "fromis_9"
+    ],
+    "agency": "N/A",
+    "birthYear": 2000,
+    "height": 158,
+    "role": [
+      "Vocal",
+      "Main Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
