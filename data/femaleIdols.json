@@ -4671,5 +4671,116 @@
       "JP"
     ],
     "photo": "https://i.ibb.co/QF2H8gPL/Cocona-XG.jpg"
+  },
+  {
+    "id": 1756944188365733,
+    "name": "Hana",
+    "group": [
+      "Gugudan"
+    ],
+    "agency": "FN",
+    "birthYear": 1993,
+    "height": 162,
+    "role": [
+      "Leader",
+      "Visual",
+      "Vocal",
+      "Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944188365576,
+    "name": "Mimi",
+    "group": [
+      "Gugudan"
+    ],
+    "agency": "Badahae",
+    "birthYear": 1993,
+    "height": 163,
+    "role": [
+      "Visual",
+      "Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944188365205,
+    "name": "Haebin",
+    "group": [
+      "Gugudan"
+    ],
+    "agency": "N/A",
+    "birthYear": 1995,
+    "height": 169,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944188365800,
+    "name": "Nayoung",
+    "group": [
+      "Gugudan"
+    ],
+    "agency": "GoodMan Story",
+    "birthYear": 1995,
+    "height": 169,
+    "role": [
+      "Visual",
+      "Lead Vocal",
+      "Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944188365879,
+    "name": "Sally",
+    "group": [
+      "Gugudan"
+    ],
+    "agency": "N/A",
+    "birthYear": 1996,
+    "height": 163,
+    "role": [
+      "Vocal",
+      "Lead Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944188365261,
+    "name": "Soyee",
+    "group": [
+      "Gugudan"
+    ],
+    "agency": "Noah",
+    "birthYear": 1996,
+    "height": 172,
+    "role": [
+      "Main Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
