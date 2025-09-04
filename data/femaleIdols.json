@@ -4799,5 +4799,140 @@
       "KR"
     ],
     "photo": ""
+  },
+  {
+    "id": 1756944772133722,
+    "name": "Soojin",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2001,
+    "height": 165,
+    "role": [
+      "Leader",
+      "Visual",
+      "Center",
+      "Sub Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944772133431,
+    "name": "Soeun",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2002,
+    "height": 172,
+    "role": [
+      "Center",
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944772133278,
+    "name": "Jaehee",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2004,
+    "height": 166,
+    "role": [
+      "Sub Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 175694477213322,
+    "name": "Jihan",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2004,
+    "height": 167,
+    "role": [
+      "Visual",
+      "Center",
+      "Lead Vocal"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944772133692,
+    "name": "Zoa",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2005,
+    "height": 171,
+    "role": [
+      "Maknae",
+      "Visual",
+      "Sub Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944772133638,
+    "name": "Jiyoon",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2002,
+    "height": 166,
+    "role": [
+      "Lead Vocal",
+      "Sub Rap"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
+  },
+  {
+    "id": 1756944772133944,
+    "name": "Monday",
+    "group": [
+      "Weeekly"
+    ],
+    "agency": "IST",
+    "birthYear": 2002,
+    "height": 173,
+    "role": [
+      "Main Vocal",
+      "Sub Rap",
+      "Main Dancer"
+    ],
+    "nationality": [
+      "KR"
+    ],
+    "photo": ""
   }
 ]
