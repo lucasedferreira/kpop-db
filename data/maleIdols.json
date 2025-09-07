@@ -3699,5 +3699,24 @@
       "JP"
     ],
     "photo": "https://i.ibb.co/twVBkNR0/Sakuya-NCT-WISH.jpg"
+  },
+  {
+    "id": 1757258469304742,
+    "name": "Jackson Wang",
+    "group": [
+      "GOT7",
+      "SOLO"
+    ],
+    "agency": "Team Wang",
+    "birthYear": 1994,
+    "height": 174,
+    "role": [
+      "Main Rap",
+      "Lead Dancer"
+    ],
+    "nationality": [
+      "CN"
+    ],
+    "photo": "https://i.ibb.co/GG0TR89/Jackson-Wang-GOT7.jpg"
   }
 ]
