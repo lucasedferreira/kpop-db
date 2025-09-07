@@ -322,5 +322,14 @@
     "memberCount": 3,
     "status": "inactive",
     "photo": "https://i.ibb.co/fGrKK0gW/BIGBANG-logo-1757259179711.jpg"
+  },
+  {
+    "id": 1757259409175581,
+    "name": "2PM",
+    "agency": "JYP",
+    "debutYear": 2008,
+    "memberCount": 6,
+    "status": "active",
+    "photo": "https://i.ibb.co/WvCXLt4C/2PM-logo.jpg"
   }
 ]
