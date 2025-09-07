@@ -313,5 +313,14 @@
     "memberCount": 9,
     "status": "active",
     "photo": "https://i.ibb.co/rRyH8pyY/SUPER-JUNIOR-logo.jpg"
+  },
+  {
+    "id": 1757259097411543,
+    "name": "BIGBANG",
+    "agency": "YG",
+    "debutYear": 2006,
+    "memberCount": 3,
+    "status": "inactive",
+    "photo": "https://i.ibb.co/4nMcxNb5/BIGBANG-logo.jpg"
   }
 ]
